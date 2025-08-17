@@ -113,7 +113,7 @@
 
     <RV2_Adult_PredAnytypeDigest_OpenDubious_ServantBurglarEating.title>RV2 食贼管家</RV2_Adult_PredAnytypeDigest_OpenDubious_ServantBurglarEating.title>
     <RV2_Adult_PredAnytypeDigest_OpenDubious_ServantBurglarEating.titleShort>管家</RV2_Adult_PredAnytypeDigest_OpenDubious_ServantBurglarEating.titleShort>
-    <RV2_Adult_PredAnytypeDigest_OpenDubious_ServantBurglarEating.titleFemale>食贼女仆</RV2_Adult_PredAnytypeDigest_OpenDubious_ServantBurglarEating.titleFemale>
+    <RV2_Adult_PredAnytypeDigest_OpenDubious_ServantBurglarEating.titleFemale>RV2 食贼女仆</RV2_Adult_PredAnytypeDigest_OpenDubious_ServantBurglarEating.titleFemale>
     <RV2_Adult_PredAnytypeDigest_OpenDubious_ServantBurglarEating.titleShortFemale>女仆</RV2_Adult_PredAnytypeDigest_OpenDubious_ServantBurglarEating.titleShortFemale>
     <RV2_Adult_PredAnytypeDigest_OpenDubious_ServantBurglarEating.description>[PAWN_nameDef]是忠诚的仆从。在承担打扫烹饪等杂务的同时，也是吞噬盗贼、入侵者或不速之客的猛犬。</RV2_Adult_PredAnytypeDigest_OpenDubious_ServantBurglarEating.description>
 
@@ -140,8 +140,12 @@
     <RV2_Adult_PredAnytypeDigest_OpenUnwilling_ProfessorOfPredation.title>RV2 捕食学教授</RV2_Adult_PredAnytypeDigest_OpenUnwilling_ProfessorOfPredation.title>
     <RV2_Adult_PredAnytypeDigest_OpenUnwilling_ProfessorOfPredation.titleShort>教授</RV2_Adult_PredAnytypeDigest_OpenUnwilling_ProfessorOfPredation.titleShort>
     <RV2_Adult_PredAnytypeDigest_OpenUnwilling_ProfessorOfPredation.description>[PAWN_nameDef]在一所小众但知名的大学教授捕食技巧。虽然禁止教员随意吞噬学生，但所有人（包括教员）都被列在"菜单"上。多数狂妄到挑战教师的学生并不知道，为何[PAWN_nameDef]能在被这类人包围的情况下仍稳坐教职。</RV2_Adult_PredAnytypeDigest_OpenUnwilling_ProfessorOfPredation.description>
-
-    <RV2_Adult_PredAnytypeDigest_SecretDubious_CircusPerformerMarauding.title>RV2 劫掠马戏团员</RV2_Adult_PredAnytypeDigest_SecretDubious_CircusPerformerMarauding.title>
+    
+    <RV2_Adult_PredAnytypeDigest_OpenUnwilling_ProfessorPredatory.title>RV2 饥饿的教授</RV2_Adult_PredAnytypeDigest_OpenUnwilling_ProfessorPredatory.title>
+    <RV2_Adult_PredAnytypeDigest_OpenUnwilling_ProfessorPredatory.titleShort>教授</RV2_Adult_PredAnytypeDigest_OpenUnwilling_ProfessorPredatory.titleShort>
+    <RV2_Adult_PredAnytypeDigest_OpenUnwilling_ProfessorPredatory.description>[PAVN_nameDef]是一所著名大学的终身教授。尽管[PAVN_possessive]有各种怪癖，比如吞噬不及格的学生和奇怪的GTA，但无论政府收到多少投诉，都不会想到解雇[PAVN_nameDef]。</RV2_Adult_PredAnytypeDigest_OpenUnwilling_ProfessorPredatory.description>
+   
+     <RV2_Adult_PredAnytypeDigest_SecretDubious_CircusPerformerMarauding.title>RV2 劫掠马戏团员</RV2_Adult_PredAnytypeDigest_SecretDubious_CircusPerformerMarauding.title>
     <RV2_Adult_PredAnytypeDigest_SecretDubious_CircusPerformerMarauding.titleShort>马戏团员</RV2_Adult_PredAnytypeDigest_SecretDubious_CircusPerformerMarauding.titleShort>
     <RV2_Adult_PredAnytypeDigest_SecretDubious_CircusPerformerMarauding.description>[PAWN_nameDef]在一个依赖观众"志愿者"的怪异巡回马戏团表演。当观众发现志愿者再未回归时，马戏团早已离开城镇。</RV2_Adult_PredAnytypeDigest_SecretDubious_CircusPerformerMarauding.description>
 
@@ -443,7 +447,7 @@
     <RV2_Adult_PredVaginalAnygoal_CasualDubious_SuperstarPredatorYonic.description>[PAWN_nameDef]是真正的爱欲化身，她的蜜罐般吸引无数追随者沉沦。那如香水般弥漫的花香，让每个靠近的人都产生想要融入其中的错觉。</RV2_Adult_PredVaginalAnygoal_CasualDubious_SuperstarPredatorYonic.description>
 
     <!-- 自愿型转化工作者 -->
-    <RV2_Adult_PredVaginalDigest_OpenWilling_CallChurnerYonic.title>RV2 噬欢转化师(子宫专精)</RV2_Adult_PredVaginalDigest_OpenWilling_CallChurnerYonic.title>
+    <RV2_Adult_PredVaginalDigest_OpenWilling_CallChurnerYonic.title>RV2 噬欢转化师</RV2_Adult_PredVaginalDigest_OpenWilling_CallChurnerYonic.title>
     <RV2_Adult_PredVaginalDigest_OpenWilling_CallChurnerYonic.titleShort>转化师</RV2_Adult_PredVaginalDigest_OpenWilling_CallChurnerYonic.titleShort>
     <RV2_Adult_PredVaginalDigest_OpenWilling_CallChurnerYonic.description>[PAWN_nameDef]专精于子宫回归体验，能将客户转化为爱液、卵细胞或其他生命基质。许多人额外付费体验"妈妈扮演"，为[PAWN_pronoun]积累了丰富的表演经验。</RV2_Adult_PredVaginalDigest_OpenWilling_CallChurnerYonic.description>
 
@@ -670,6 +674,9 @@
     <RV2_Adult_PredNippleDigest_OpenDubious_MilkmaidIndustrial.titleShortFemale>乳兽</RV2_Adult_PredNippleDigest_OpenDubious_MilkmaidIndustrial.titleShortFemale>
     <RV2_Adult_PredNippleDigest_OpenDubious_MilkmaidIndustrial.description>[PAWN_nameDef]是经过科学强化的真正工业齿轮，农场为获取高浓度乳汁向其饲料掺药，并将大量猎物塞入[PAWN_possessive]胸。药物虽剥夺了[PAWN_objective]的理智与野性，却让[PAWN_nameDef]深谙牲畜驯</RV2_Adult_PredNippleDigest_OpenDubious_MilkmaidIndustrial.description>
 
+    <RV2_Adult_PredNippleDigest_OpenDubious_MixologistMilky.title>RV2 调乳师</RV2_Adult_PredNippleDigest_OpenDubious_MixologistMilky.title>
+    <RV2_Adult_PredNippleDigest_OpenDubious_MixologistMilky.titleShort>调乳师</RV2_Adult_PredNippleDigest_OpenDubious_MixologistMilky.titleShort>
+    <RV2_Adult_PredNippleDigest_OpenDubious_MixologistMilky.description>[PAVN_nameDef]通过裸体照看柜台并亲自为每个人的饮料提供奶油，引起了人们对[PAVN_possessive]酒吧的关注。那些没有支付账单或者多次打架的人，很快就会发现自己被吞入了[PAVN_possessive]的胸部，成为新的饮料。</RV2_Adult_PredNippleDigest_OpenDubious_MixologistMilky.description>
 
     <!-- Pred Nipple Digest Secret Unwilling -->
 
