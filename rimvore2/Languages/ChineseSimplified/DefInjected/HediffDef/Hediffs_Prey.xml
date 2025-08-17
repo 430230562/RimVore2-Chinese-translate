@@ -3,5 +3,8 @@
 
   <RV2_CurrentlyVored.label>被吞下</RV2_CurrentlyVored.label>
   <RV2_CurrentlyVored.description>这个角色被整个吞下，正在捕食者体内度过时光。</RV2_CurrentlyVored.description>
+  
+  <RV2_FasterRecover.label>愈合加速</RV2_FasterRecover.label>
+  <RV2_FasterRecover.description>这个角色被捕食者吞进体内冶疗</RV2_FasterRecover.description>
 
 </LanguageData>

@@ -7,5 +7,7 @@
   <!-- 消化产物 -->
   <RV2_VoreProduct.label>吞噬产物</RV2_VoreProduct.label>
   <RV2_VoreProductContainer.label>消化残骸块</RV2_VoreProductContainer.label>
+  
+  <RV2_VoreEnables.label>吞噬增强装置</RV2_VoreEnables.label>
 
 </LanguageData>

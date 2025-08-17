@@ -9,9 +9,9 @@
   <RV2_MakeFertilizer4.description>将消化残渣回收制成肥料。</RV2_MakeFertilizer4.description>
   <RV2_MakeFertilizer4.jobString>正在回收消化残渣。</RV2_MakeFertilizer4.jobString>
   
-  <RV2_MakeNeutroamine.label>提取中性胺</RV2_MakeFertilizer.label>
-  <RV2_MakeFertilizer.description>从吞噬产物中提取中性胺</RV2_MakeFertilizer.description>
-  <RV2_MakeFertilizer.jobString>正在提取中性胺。</RV2_MakeFertilizer.jobString>
+  <RV2_MakeNeutroamine.label>提取中性胺</RV2_MakeNeutroamine.label>
+  <RV2_MakeNeutroamine.description>从吞噬产物中提取中性胺</RV2_MakeNeutroamine.description>
+  <RV2_MakeNeutroamine.jobString>正在提取中性胺。</RV2_MakeNeutroamine.jobString>
 
 
 </LanguageData>

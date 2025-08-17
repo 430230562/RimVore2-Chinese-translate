@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Goal Enablers 
-  这些主要解锁角色现有类型的新目标 -->
-
   <RV2_MakeGoalEnabler_ConvertLube.label>制造润滑活化种子 (润滑转化)</RV2_MakeGoalEnabler_ConvertLube.label>
   <RV2_MakeGoalEnabler_ConvertLube.description>制造特殊的纳米机器装置，用于激活捕食相关能力。</RV2_MakeGoalEnabler_ConvertLube.description>
   <RV2_MakeGoalEnabler_ConvertLube.jobString>正在制造捕食扩展装置</RV2_MakeGoalEnabler_ConvertLube.jobString>

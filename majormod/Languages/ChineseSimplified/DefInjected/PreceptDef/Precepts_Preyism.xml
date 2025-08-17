@@ -1,20 +1,15 @@
-<!-- Precepts_Preyism.xml -->
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- 厌恶 -->
   <RV2_Preyism_Disliked.label>厌恶</RV2_Preyism_Disliked.label>
   <RV2_Preyism_Disliked.description>我们并非为被吞噬而生。</RV2_Preyism_Disliked.description>
 
-  <!-- 憎恶 -->
   <RV2_Preyism_Abhorrent.label>憎恶</RV2_Preyism_Abhorrent.label>
   <RV2_Preyism_Abhorrent.description>作为猎物参与吞噬者应当被清除。</RV2_Preyism_Abhorrent.description>
 
-  <!-- 喜好 -->
   <RV2_Preyism_Liked.label>喜好</RV2_Preyism_Liked.label>
   <RV2_Preyism_Liked.description>被吞噬行为应当被鼓励和赞美。</RV2_Preyism_Liked.description>
 
-  <!-- 必须 -->
   <RV2_Preyism_Required.label>必须</RV2_Preyism_Required.label>
   <RV2_Preyism_Required.description>我们生来就是被吞噬的命，依赖土地与空气生存违背存在意义。</RV2_Preyism_Required.description>
   <RV2_Preyism_Required.comps.3.description>{VORERELATEDINTERVAL}天内未被吞噬</RV2_Preyism_Required.comps.3.description>

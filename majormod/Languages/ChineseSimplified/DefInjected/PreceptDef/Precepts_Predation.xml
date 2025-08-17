@@ -1,23 +1,17 @@
-<!-- Precepts_Predation.xml -->
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- 厌恶 -->
   <RV2_Predation_Disliked.label>厌恶</RV2_Predation_Disliked.label>
   <RV2_Predation_Disliked.description>我们并非为吞噬他人而生。</RV2_Predation_Disliked.description>
 
-  <!-- 憎恶 -->
   <RV2_Predation_Abhorrent.label>憎恶</RV2_Predation_Abhorrent.label>
   <RV2_Predation_Abhorrent.description>作为捕食者参与吞噬者应当被清除。</RV2_Predation_Abhorrent.description>
 
-  <!-- 喜好 -->
   <RV2_Predation_Liked.label>喜好</RV2_Predation_Liked.label>
   <RV2_Predation_Liked.description>捕食行为应当被鼓励和赞美。</RV2_Predation_Liked.description>
 
-  <!-- 必须 -->
   <RV2_Predation_Required.label>必须</RV2_Predation_Required.label>
   <RV2_Predation_Required.description>唯有不断吞噬他人，我们才能践行教义真谛。</RV2_Predation_Required.description>
   <RV2_Predation_Required.comps.3.description>{VORERELATEDINTERVAL}天内未进行吞噬</RV2_Predation_Required.comps.3.description>
 
 </LanguageData>
-
