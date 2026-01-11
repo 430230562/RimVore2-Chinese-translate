@@ -798,41 +798,41 @@
 
   <!-- Womb -->
 
-  <RV2_PreyInWombConvertingChemfuel.stages.0.label>Olifying prey in womb</RV2_PreyInWombConvertingChemfuel.stages.0.label>
-  <RV2_PreyInWombConvertingChemfuel.stages.0.description>Is this the true meaning of "burn, baby, burn"?</RV2_PreyInWombConvertingChemfuel.stages.0.description>
-  <RV2_PreyInWombConvertingChemfuel.stages.1.label>Olifying two prey in womb</RV2_PreyInWombConvertingChemfuel.stages.1.label>
-  <RV2_PreyInWombConvertingChemfuel.stages.1.description>My belly's got that half-full jerrycan "glunk" to it.</RV2_PreyInWombConvertingChemfuel.stages.1.description>
-  <RV2_PreyInWombConvertingChemfuel.stages.2.label>Olifying three prey in womb</RV2_PreyInWombConvertingChemfuel.stages.2.label>
-  <RV2_PreyInWombConvertingChemfuel.stages.2.description>I'm leaving puddles of fuel everywhere I go...</RV2_PreyInWombConvertingChemfuel.stages.2.description>
-  <RV2_PreyInWombConvertingChemfuel.stages.3.label>Olifying several prey in womb</RV2_PreyInWombConvertingChemfuel.stages.3.label>
-  <RV2_PreyInWombConvertingChemfuel.stages.3.description>I'm leaking more fuel than a shot-up generator!</RV2_PreyInWombConvertingChemfuel.stages.3.description>
+  <RV2_PreyInWombConvertingChemfuel.stages.0.label>一个猎物在子宫燃料化</RV2_PreyInWombConvertingChemfuel.stages.0.label>
+  <RV2_PreyInWombConvertingChemfuel.stages.0.description>这就是“燃烧吧，宝贝，燃烧吧”的真正含义吗？</RV2_PreyInWombConvertingChemfuel.stages.0.description>
+  <RV2_PreyInWombConvertingChemfuel.stages.1.label>两个猎物在子宫燃料化</RV2_PreyInWombConvertingChemfuel.stages.1.label>
+  <RV2_PreyInWombConvertingChemfuel.stages.1.description>我的肚子就像半满的油桶一样发出“咕噜”的声音。</RV2_PreyInWombConvertingChemfuel.stages.1.description>
+  <RV2_PreyInWombConvertingChemfuel.stages.2.label>三个猎物在子宫燃料化</RV2_PreyInWombConvertingChemfuel.stages.2.label>
+  <RV2_PreyInWombConvertingChemfuel.stages.2.description>我走到哪里都会留下一滩油渍……</RV2_PreyInWombConvertingChemfuel.stages.2.description>
+  <RV2_PreyInWombConvertingChemfuel.stages.3.label>多个猎物在子宫燃料化</RV2_PreyInWombConvertingChemfuel.stages.3.label>
+  <RV2_PreyInWombConvertingChemfuel.stages.3.description>我漏的燃料比被击中了的化合燃料发电机还多！</RV2_PreyInWombConvertingChemfuel.stages.3.description>
 
-  <RV2_PreyInWombDissolvingChemfuel.stages.0.label>Dissolving live prey into chem-cum</RV2_PreyInWombDissolvingChemfuel.stages.0.label>
-  <RV2_PreyInWombDissolvingChemfuel.stages.0.description>So what kind of machine do you think you'll power?</RV2_PreyInWombDissolvingChemfuel.stages.0.description>
-  <RV2_PreyInWombDissolvingChemfuel.stages.1.label>Dissolving two live prey into chem-cum</RV2_PreyInWombDissolvingChemfuel.stages.1.label>
-  <RV2_PreyInWombDissolvingChemfuel.stages.1.description>I bet boomalopes don't have this much fun!</RV2_PreyInWombDissolvingChemfuel.stages.1.description>
-  <RV2_PreyInWombDissolvingChemfuel.stages.2.label>Dissolving three live prey into chem-cum</RV2_PreyInWombDissolvingChemfuel.stages.2.label>
-  <RV2_PreyInWombDissolvingChemfuel.stages.2.description>I'm gonna need a barrel for all of you...</RV2_PreyInWombDissolvingChemfuel.stages.2.description>
-  <RV2_PreyInWombDissolvingChemfuel.stages.3.label>Dissolving several live prey into chem-cum</RV2_PreyInWombDissolvingChemfuel.stages.3.label>
-  <RV2_PreyInWombDissolvingChemfuel.stages.3.description>We'll never run out of chemfuel at this rate!</RV2_PreyInWombDissolvingChemfuel.stages.3.description>
+  <RV2_PreyInWombDissolvingChemfuel.stages.0.label>将猎物溶解成化合燃料</RV2_PreyInWombDissolvingChemfuel.stages.0.label>
+  <RV2_PreyInWombDissolvingChemfuel.stages.0.description>那么您认为您将为哪种机器提供动力？</RV2_PreyInWombDissolvingChemfuel.stages.0.description>
+  <RV2_PreyInWombDissolvingChemfuel.stages.1.label>将两个猎物溶解成化合燃料</RV2_PreyInWombDissolvingChemfuel.stages.1.label>
+  <RV2_PreyInWombDissolvingChemfuel.stages.1.description>我打赌爆炸羊会因为我抢了它的工作而不开心~</RV2_PreyInWombDissolvingChemfuel.stages.1.description>
+  <RV2_PreyInWombDissolvingChemfuel.stages.2.label>将三个猎物溶解成化合燃料</RV2_PreyInWombDissolvingChemfuel.stages.2.label>
+  <RV2_PreyInWombDissolvingChemfuel.stages.2.description>哪个大桶来装吧~</RV2_PreyInWombDissolvingChemfuel.stages.2.description>
+  <RV2_PreyInWombDissolvingChemfuel.stages.3.label>将多个猎物溶解成化合燃料</RV2_PreyInWombDissolvingChemfuel.stages.3.label>
+  <RV2_PreyInWombDissolvingChemfuel.stages.3.description>照这样下去，我们的化学燃料永远都用不完！</RV2_PreyInWombDissolvingChemfuel.stages.3.description>
 
-  <RV2_PreyInWombMushingChemfuel.stages.0.label>Breaking down prey into chem-cum</RV2_PreyInWombMushingChemfuel.stages.0.label>
-  <RV2_PreyInWombMushingChemfuel.stages.0.description>Stopped fighting your fuelification?</RV2_PreyInWombMushingChemfuel.stages.0.description>
-  <RV2_PreyInWombMushingChemfuel.stages.1.label>Breaking down two prey into chem-cum</RV2_PreyInWombMushingChemfuel.stages.1.label>
-  <RV2_PreyInWombMushingChemfuel.stages.1.description>Just gotta refine you two down, now!</RV2_PreyInWombMushingChemfuel.stages.1.description>
-  <RV2_PreyInWombMushingChemfuel.stages.2.label>Breaking down three prey into chem-cum</RV2_PreyInWombMushingChemfuel.stages.2.label>
-  <RV2_PreyInWombMushingChemfuel.stages.2.description>Oh my, there's that spicy tingle.</RV2_PreyInWombMushingChemfuel.stages.2.description>
-  <RV2_PreyInWombMushingChemfuel.stages.3.label>Breaking down several prey into chem-cum</RV2_PreyInWombMushingChemfuel.stages.3.label>
-  <RV2_PreyInWombMushingChemfuel.stages.3.description>That burning... as though I were a boomalope in heat...~</RV2_PreyInWombMushingChemfuel.stages.3.description>
+  <RV2_PreyInWombMushingChemfuel.stages.0.label>将猎物分解成化合燃料</RV2_PreyInWombMushingChemfuel.stages.0.label>
+  <RV2_PreyInWombMushingChemfuel.stages.0.description>放弃了？</RV2_PreyInWombMushingChemfuel.stages.0.description>
+  <RV2_PreyInWombMushingChemfuel.stages.1.label>将两个猎物分解成化合燃料</RV2_PreyInWombMushingChemfuel.stages.1.label>
+  <RV2_PreyInWombMushingChemfuel.stages.1.description>现在就必须把你们两个精炼下来！</RV2_PreyInWombMushingChemfuel.stages.1.description>
+  <RV2_PreyInWombMushingChemfuel.stages.2.label>将三个猎物分解成化合燃料</RV2_PreyInWombMushingChemfuel.stages.2.label>
+  <RV2_PreyInWombMushingChemfuel.stages.2.description>噢，有种辣辣的感觉。</RV2_PreyInWombMushingChemfuel.stages.2.description>
+  <RV2_PreyInWombMushingChemfuel.stages.3.label>将多个猎物分解成化合燃料</RV2_PreyInWombMushingChemfuel.stages.3.label>
+  <RV2_PreyInWombMushingChemfuel.stages.3.description>那种灼烧感……就好像我是一只发情的爆炸羊……~</RV2_PreyInWombMushingChemfuel.stages.3.description>
 
-  <RV2_PreyInWombPassing.stages.0.label>Passing prey through womb</RV2_PreyInWombPassing.stages.0.label>
-  <RV2_PreyInWombPassing.stages.0.description>You're not stopping here!</RV2_PreyInWombPassing.stages.0.description>
-  <RV2_PreyInWombPassing.stages.1.label>Passing two prey through womb</RV2_PreyInWombPassing.stages.1.label>
-  <RV2_PreyInWombPassing.stages.1.description>You're not stopping here!</RV2_PreyInWombPassing.stages.1.description>
-  <RV2_PreyInWombPassing.stages.2.label>Passing three prey through womb</RV2_PreyInWombPassing.stages.2.label>
-  <RV2_PreyInWombPassing.stages.2.description>You're not stopping here!</RV2_PreyInWombPassing.stages.2.description>
-  <RV2_PreyInWombPassing.stages.3.label>Passing several prey through womb</RV2_PreyInWombPassing.stages.3.label>
-  <RV2_PreyInWombPassing.stages.3.description>You're not stopping here!</RV2_PreyInWombPassing.stages.3.description>
+  <RV2_PreyInWombPassing.stages.0.label>猎物穿过子宫</RV2_PreyInWombPassing.stages.0.label>
+  <RV2_PreyInWombPassing.stages.0.description>别停~</RV2_PreyInWombPassing.stages.0.description>
+  <RV2_PreyInWombPassing.stages.1.label>两个猎物穿过子宫</RV2_PreyInWombPassing.stages.1.label>
+  <RV2_PreyInWombPassing.stages.1.description>别停~</RV2_PreyInWombPassing.stages.1.description>
+  <RV2_PreyInWombPassing.stages.2.label>三个猎物穿过子宫</RV2_PreyInWombPassing.stages.2.label>
+  <RV2_PreyInWombPassing.stages.2.description>别停~</RV2_PreyInWombPassing.stages.2.description>
+  <RV2_PreyInWombPassing.stages.3.label>多个猎物穿过子宫</RV2_PreyInWombPassing.stages.3.label>
+  <RV2_PreyInWombPassing.stages.3.description>别停~</RV2_PreyInWombPassing.stages.3.description>
 
 
 </LanguageData>
