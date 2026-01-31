@@ -67,4 +67,155 @@
     <RV2_TypeEnabler_Udder.label>柔软乳房</RV2_TypeEnabler_Udder.label>
     <RV2_TypeEnabler_Udder.description>拥有此基因者具备柔韧乳头与腹部乳房，可实现乳房吞噬。</RV2_TypeEnabler_Udder.description>
 
+    <!-- 基因类别 -->
+    <RV2_Vore_Role_Preference.label>吞噬角色偏好</RV2_Vore_Role_Preference.label>
+    <RV2_Vore_Product_Attitude.label>产物态度</RV2_Vore_Product_Attitude.label>
+    <RV2_Vore_Prey_Preference.label>作为猎物的偏好</RV2_Vore_Prey_Preference.label>
+    <RV2_Vore_Predator_Preference.label>作为捕食者的偏好</RV2_Vore_Predator_Preference.label>
+    <RV2_Vore_Stripping_Preference.label>脱衣偏好</RV2_Vore_Stripping_Preference.label>
+    <RV2_Vore_Digestion.label>消化</RV2_Vore_Digestion.label>
+    <RV2_Vore_Post_Vore.label>吞噬后行为</RV2_Vore_Post_Vore.label>
+    <RV2_Vore_Capacity.label>吞噬容量</RV2_Vore_Capacity.label>
+    <RV2_Vore_Combat.label>吞噬战斗能力</RV2_Vore_Combat.label>
+
+    <!-- 其他 - 吞噬传送 -->
+    <RV2_Gene_VoreSkip.label>吞噬传送</RV2_Gene_VoreSkip.label>
+    <RV2_Gene_VoreSkip.description>携带者可以将目标传送到另一个目标体内（可以是自己）。身体部位和吞噬目标随机选择。</RV2_Gene_VoreSkip.description>
+
+    <!-- 机动性 - 次元空间 -->
+    <RV2_Gene_QuirkForce_Cheat_Hammerspace.label>次元空间</RV2_Gene_QuirkForce_Cheat_Hammerspace.label>
+    <RV2_Gene_QuirkForce_Cheat_Hammerspace.description>这个角色的身体能够将其猎物压缩到不可思议的程度。你无法确切判断这个角色体内此刻有多少猎物，不过如果你知道它的限度的话，你可以猜测。</RV2_Gene_QuirkForce_Cheat_Hammerspace.description>
+
+    <!-- 机动性 - 神级灵活性 -->
+    <RV2_Gene_QuirkForce_Mobility_Godlike.label>神级灵活性</RV2_Gene_QuirkForce_Mobility_Godlike.label>
+    <RV2_Gene_QuirkForce_Mobility_Godlike.description>这个角色走路时背着多个成年人的重量看起来毫不费力，以一种似乎违反物理法则的方式。</RV2_Gene_QuirkForce_Mobility_Godlike.description>
+
+    <!-- 机动性 - 肚皮杂技演员 -->
+    <RV2_Gene_QuirkForce_Mobility_VeryGood.label>肚皮杂技演员</RV2_Gene_QuirkForce_Mobility_VeryGood.label>
+    <RV2_Gene_QuirkForce_Mobility_VeryGood.description>这个角色在被猎物填满时活动自如，就像它的肚子根本不存在一样。</RV2_Gene_QuirkForce_Mobility_VeryGood.description>
+
+    <!-- 机动性 - 肚皮灵巧 -->
+    <RV2_Gene_QuirkForce_Mobility_Good.label>肚皮灵巧</RV2_Gene_QuirkForce_Mobility_Good.label>
+    <RV2_Gene_QuirkForce_Mobility_Good.description>这个角色知道如何在鼓起的肚子中保持平衡。</RV2_Gene_QuirkForce_Mobility_Good.description>
+
+    <!-- 机动性 - 肚皮功能 -->
+    <RV2_Gene_QuirkForce_Mobility_Normal.label>肚皮功能</RV2_Gene_QuirkForce_Mobility_Normal.label>
+    <RV2_Gene_QuirkForce_Mobility_Normal.description>这个角色像其他人一样受到猎物重量的影响。</RV2_Gene_QuirkForce_Mobility_Normal.description>
+
+    <!-- 机动性 - 肚皮笨拙 -->
+    <RV2_Gene_QuirkForce_Mobility_Bad.label>肚皮笨拙</RV2_Gene_QuirkForce_Mobility_Bad.label>
+    <RV2_Gene_QuirkForce_Mobility_Bad.description>这个角色拖着大肚子不稳定，每当其猎物四处踢动时容易摔倒。</RV2_Gene_QuirkForce_Mobility_Bad.description>
+
+    <!-- 机动性 - 肚皮失能 -->
+    <RV2_Gene_QuirkForce_Mobility_VeryBad.label>肚皮失能</RV2_Gene_QuirkForce_Mobility_VeryBad.label>
+    <RV2_Gene_QuirkForce_Mobility_VeryBad.description>这个角色拖着大圆肚子几乎无法站立，更不用说四处活动了。</RV2_Gene_QuirkForce_Mobility_VeryBad.description>
+
+    <!-- 容量 - 无限容量 -->
+    <RV2_Gene_QuirkForce_Cheat_InfiniteCapacity.label>无限容量</RV2_Gene_QuirkForce_Cheat_InfiniteCapacity.label>
+    <RV2_Gene_QuirkForce_Cheat_InfiniteCapacity.description>这个角色不知道"满了"的意思。总是还有更多空间。总是的。</RV2_Gene_QuirkForce_Cheat_InfiniteCapacity.description>
+
+    <!-- 容量 - 神级容量 -->
+    <RV2_Gene_QuirkForce_StorageCapacity_Godlike.label>神级容量</RV2_Gene_QuirkForce_StorageCapacity_Godlike.label>
+    <RV2_Gene_QuirkForce_StorageCapacity_Godlike.description>这个角色的皮肤超自然地富有弹性，能够扩张到超越所有逻辑和理由的大小。无论这个角色有多满，似乎总是还能再吞一个。</RV2_Gene_QuirkForce_StorageCapacity_Godlike.description>
+
+    <!-- 容量 - 洞窟般的肚子 -->
+    <RV2_Gene_QuirkForce_StorageCapacity_VeryGood.label>洞窟般的肚子</RV2_Gene_QuirkForce_StorageCapacity_VeryGood.label>
+    <RV2_Gene_QuirkForce_StorageCapacity_VeryGood.description>这个角色能够把自己塞得满满的，还能腾出更多空间，不过即使是这个角色也有极限。</RV2_Gene_QuirkForce_StorageCapacity_VeryGood.description>
+
+    <!-- 容量 - 富有弹性的肚子 -->
+    <RV2_Gene_QuirkForce_StorageCapacity_Good.label>富有弹性的肚子</RV2_Gene_QuirkForce_StorageCapacity_Good.label>
+    <RV2_Gene_QuirkForce_StorageCapacity_Good.description>这个角色能够拉伸以容纳比普通捕食者更多的猎物。</RV2_Gene_QuirkForce_StorageCapacity_Good.description>
+
+    <!-- 容量 - 正常容量 -->
+    <RV2_Gene_QuirkForce_StorageCapacity_Normal.label>正常容量</RV2_Gene_QuirkForce_StorageCapacity_Normal.label>
+    <RV2_Gene_QuirkForce_StorageCapacity_Normal.description>这个角色能够像其他人一样装下更多猎物。</RV2_Gene_QuirkForce_StorageCapacity_Normal.description>
+
+    <!-- 容量 - 紧凑的肚子 -->
+    <RV2_Gene_QuirkForce_StorageCapacity_Bad.label>紧凑的肚子</RV2_Gene_QuirkForce_StorageCapacity_Bad.label>
+    <RV2_Gene_QuirkForce_StorageCapacity_Bad.description>这个角色难以像大多数捕食者同伴那样装下那么多猎物；里面只有一个的空间，最多可能两个（默认情况下）。</RV2_Gene_QuirkForce_StorageCapacity_Bad.description>
+
+    <!-- 容量 - 幽闭恐怖的肚子 -->
+    <RV2_Gene_QuirkForce_StorageCapacity_VeryBad.label>幽闭恐怖的肚子</RV2_Gene_QuirkForce_StorageCapacity_VeryBad.label>
+    <RV2_Gene_QuirkForce_StorageCapacity_VeryBad.description>这个角色因为缺乏猎物容量而苦恼。这个角色不能吃与其体型相同的猎物（默认情况下），否则很快就会满。</RV2_Gene_QuirkForce_StorageCapacity_VeryBad.description>
+
+    <!-- 战斗 - 抓取力 - 专业摔跤手 -->
+    <RV2_Gene_QuirkForce_GrappleStrength_VeryGood.label>专业摔跤手</RV2_Gene_QuirkForce_GrappleStrength_VeryGood.label>
+    <RV2_Gene_QuirkForce_GrappleStrength_VeryGood.description>这个角色在吞噬摔跤的格斗中是一名专家。</RV2_Gene_QuirkForce_GrappleStrength_VeryGood.description>
+
+    <!-- 战斗 - 抓取力 - 技能娴熟的摔跤手 -->
+    <RV2_Gene_QuirkForce_GrappleStrength_Good.label>技能娴熟的摔跤手</RV2_Gene_QuirkForce_GrappleStrength_Good.label>
+    <RV2_Gene_QuirkForce_GrappleStrength_Good.description>这个角色在吞噬摔跤的格斗中相当不错。</RV2_Gene_QuirkForce_GrappleStrength_Good.description>
+
+    <!-- 战斗 - 抓取力 - 中等摔跤手 -->
+    <RV2_Gene_QuirkForce_GrappleStrength_Normal.label>中等摔跤手</RV2_Gene_QuirkForce_GrappleStrength_Normal.label>
+    <RV2_Gene_QuirkForce_GrappleStrength_Normal.description>这个角色在吞噬摔跤的格斗中水平平均。</RV2_Gene_QuirkForce_GrappleStrength_Normal.description>
+
+    <!-- 战斗 - 抓取力 - 笨拙的摔跤手 -->
+    <RV2_Gene_QuirkForce_GrappleStrength_Bad.label>笨拙的摔跤手</RV2_Gene_QuirkForce_GrappleStrength_Bad.label>
+    <RV2_Gene_QuirkForce_GrappleStrength_Bad.description>这个角色在吞噬摔跤的格斗中相当差劲。</RV2_Gene_QuirkForce_GrappleStrength_Bad.description>
+
+    <!-- 战斗 - 抓取力 - 无望的摔跤手 -->
+    <RV2_Gene_QuirkForce_GrappleStrength_VeryBad.label>无望的摔跤手</RV2_Gene_QuirkForce_GrappleStrength_VeryBad.label>
+    <RV2_Gene_QuirkForce_GrappleStrength_VeryBad.description>这个角色在吞噬摔跤的格斗中糟透了。</RV2_Gene_QuirkForce_GrappleStrength_VeryBad.description>
+
+    <!-- 挣扎能力 - 久坐的 -->
+    <RV2_Gene_QuirkForce_StruggleCapability_NoStruggleAsPrey.label>不抵抗的</RV2_Gene_QuirkForce_StruggleCapability_NoStruggleAsPrey.label>
+    <RV2_Gene_QuirkForce_StruggleCapability_NoStruggleAsPrey.description>这个角色不介意被吞噬，无论可能的后果如何。因此这个角色永远不会费力挣扎。</RV2_Gene_QuirkForce_StruggleCapability_NoStruggleAsPrey.description>
+
+    <!-- 挣扎能力 - 麻痹 -->
+    <RV2_Gene_QuirkForce_StruggleCapability_NoStruggleAsPredator.label>麻痹胃液</RV2_Gene_QuirkForce_StruggleCapability_NoStruggleAsPredator.label>
+    <RV2_Gene_QuirkForce_StruggleCapability_NoStruggleAsPredator.description>这个角色的胃分泌麻痹酶使猎物瘫痪，因此被这个角色吞噬的任何人都不会挣扎。</RV2_Gene_QuirkForce_StruggleCapability_NoStruggleAsPredator.description>
+
+    <!-- 挣扎强度 (猎物) - 专业级蠕动者 -->
+    <RV2_Gene_QuirkForce_StruggleStrength_Prey_VeryGood.label>专业级蠕动者</RV2_Gene_QuirkForce_StruggleStrength_Prey_VeryGood.label>
+    <RV2_Gene_QuirkForce_StruggleStrength_Prey_VeryGood.description>这个角色是被他人吞噬时挣扎的专家。</RV2_Gene_QuirkForce_StruggleStrength_Prey_VeryGood.description>
+
+    <!-- 挣扎强度 (猎物) - 蠕动者 -->
+    <RV2_Gene_QuirkForce_StruggleStrength_Prey_Good.label>蠕动者</RV2_Gene_QuirkForce_StruggleStrength_Prey_Good.label>
+    <RV2_Gene_QuirkForce_StruggleStrength_Prey_Good.description>这个角色在被他人吞噬时相当擅长挣扎。</RV2_Gene_QuirkForce_StruggleStrength_Prey_Good.description>
+
+    <!-- 挣扎强度 (猎物) - 中等蠕动者 -->
+    <RV2_Gene_QuirkForce_StruggleStrength_Prey_Normal.label>中等蠕动者</RV2_Gene_QuirkForce_StruggleStrength_Prey_Normal.label>
+    <RV2_Gene_QuirkForce_StruggleStrength_Prey_Normal.description>这个角色在被他人吞噬时挣扎水平平均。</RV2_Gene_QuirkForce_StruggleStrength_Prey_Normal.description>
+
+    <!-- 挣扎强度 (猎物) - 笨拙的蠕动者 -->
+    <RV2_Gene_QuirkForce_StruggleStrength_Prey_Bad.label>笨拙的蠕动者</RV2_Gene_QuirkForce_StruggleStrength_Prey_Bad.label>
+    <RV2_Gene_QuirkForce_StruggleStrength_Prey_Bad.description>这个角色在被他人吞噬时相当不擅长挣扎。</RV2_Gene_QuirkForce_StruggleStrength_Prey_Bad.description>
+
+    <!-- 挣扎强度 (猎物) - 无望的蠕动者 -->
+    <RV2_Gene_QuirkForce_StruggleStrength_Prey_VeryBad.label>无望的蠕动者</RV2_Gene_QuirkForce_StruggleStrength_Prey_VeryBad.label>
+    <RV2_Gene_QuirkForce_StruggleStrength_Prey_VeryBad.description>这个角色在被他人吞噬时挣扎的能力糟透了。</RV2_Gene_QuirkForce_StruggleStrength_Prey_VeryBad.description>
+
+    <!-- 抗挣扎强度 (捕食者) - 钢铁肠胃 -->
+    <RV2_Gene_QuirkForce_StruggleStrength_Predator_VeryGood.label>钢铁肠胃</RV2_Gene_QuirkForce_StruggleStrength_Predator_VeryGood.label>
+    <RV2_Gene_QuirkForce_StruggleStrength_Predator_VeryGood.description>这个角色是抵抗其猎物挣扎的专家。</RV2_Gene_QuirkForce_StruggleStrength_Predator_VeryGood.description>
+
+    <!-- 抗挣扎强度 (捕食者) - 铁肠胃 -->
+    <RV2_Gene_QuirkForce_StruggleStrength_Predator_Good.label>铁肠胃</RV2_Gene_QuirkForce_StruggleStrength_Predator_Good.label>
+    <RV2_Gene_QuirkForce_StruggleStrength_Predator_Good.description>这个角色相当擅长抵抗其猎物的挣扎。</RV2_Gene_QuirkForce_StruggleStrength_Predator_Good.description>
+
+    <!-- 抗挣扎强度 (捕食者) - 中等肠胃 -->
+    <RV2_Gene_QuirkForce_StruggleStrength_Predator_Normal.label>中等肠胃</RV2_Gene_QuirkForce_StruggleStrength_Predator_Normal.label>
+    <RV2_Gene_QuirkForce_StruggleStrength_Predator_Normal.description>这个角色在抵抗其猎物的挣扎上水平平均。</RV2_Gene_QuirkForce_StruggleStrength_Predator_Normal.description>
+
+    <!-- 抗挣扎强度 (捕食者) - 虚弱肠胃 -->
+    <RV2_Gene_QuirkForce_StruggleStrength_Predator_Bad.label>虚弱肠胃</RV2_Gene_QuirkForce_StruggleStrength_Predator_Bad.label>
+    <RV2_Gene_QuirkForce_StruggleStrength_Predator_Bad.description>这个角色相当不擅长抵抗其猎物的挣扎。</RV2_Gene_QuirkForce_StruggleStrength_Predator_Bad.description>
+
+    <!-- 抗挣扎强度 (捕食者) - 脆弱肠胃 -->
+    <RV2_Gene_QuirkForce_StruggleStrength_Predator_VeryBad.label>脆弱肠胃</RV2_Gene_QuirkForce_StruggleStrength_Predator_VeryBad.label>
+    <RV2_Gene_QuirkForce_StruggleStrength_Predator_VeryBad.description>这个角色在抵抗其猎物的挣扎上糟透了。</RV2_Gene_QuirkForce_StruggleStrength_Predator_VeryBad.description>
+
+    <!-- 挣扎偏好 (捕食者) - 厌恶挣扎 -->
+    <RV2_Gene_QuirkForce_StrugglePreference_Hated.label>厌恶挣扎</RV2_Gene_QuirkForce_StrugglePreference_Hated.label>
+    <RV2_Gene_QuirkForce_StrugglePreference_Hated.description>这个角色内部非常易怒，讨厌猎物反抗。</RV2_Gene_QuirkForce_StrugglePreference_Hated.description>
+
+    <!-- 挣扎偏好 (捕食者) - 挣扎中立 -->
+    <RV2_Gene_QuirkForce_StrugglePreference_Nomal.label>挣扎中立</RV2_Gene_QuirkForce_StrugglePreference_Nomal.label>
+    <RV2_Gene_QuirkForce_StrugglePreference_Nomal.description>这个角色不关心其猎物是否挣扎。</RV2_Gene_QuirkForce_StrugglePreference_Nomal.description>
+
+    <!-- 挣扎偏好 (捕食者) - 热爱挣扎 -->
+    <RV2_Gene_QuirkForce_StrugglePreference_Liked.label>热爱挣扎</RV2_Gene_QuirkForce_StrugglePreference_Liked.label>
+    <RV2_Gene_QuirkForce_StrugglePreference_Liked.description>这个角色的内部非常有韧性，实际上喜欢猎物反抗。</RV2_Gene_QuirkForce_StrugglePreference_Liked.description>
+
 </LanguageData>
