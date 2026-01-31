@@ -47,4 +47,52 @@
   <RV2_TypeEnabler_Nipple.label>柔软乳头</RV2_TypeEnabler_Nipple.label>
   <RV2_TypeEnabler_Nipple.description>该角色拥有柔软的乳头和乳房，可以从乳头吞噬活体猎物。</RV2_TypeEnabler_Nipple.description>
 
+  <!-- 机动性 -->
+  <RV2_Hediff_QuirkForce_Cheat_Hammerspace.label>次元空间</RV2_Hediff_QuirkForce_Cheat_Hammerspace.label>
+  <RV2_Hediff_QuirkForce_Mobility_Godlike.label>神级灵活性</RV2_Hediff_QuirkForce_Mobility_Godlike.label>
+  <RV2_Hediff_QuirkForce_Mobility_VeryGood.label>极其灵活</RV2_Hediff_QuirkForce_Mobility_VeryGood.label>
+  <RV2_Hediff_QuirkForce_Mobility_Good.label>灵巧的</RV2_Hediff_QuirkForce_Mobility_Good.label>
+  <RV2_Hediff_QuirkForce_Mobility_Normal.label>正常灵活性</RV2_Hediff_QuirkForce_Mobility_Normal.label>
+  <RV2_Hediff_QuirkForce_Mobility_Bad.label>笨拙的</RV2_Hediff_QuirkForce_Mobility_Bad.label>
+  <RV2_Hediff_QuirkForce_Mobility_VeryBad.label>迟缓的</RV2_Hediff_QuirkForce_Mobility_VeryBad.label>
+
+  <!-- 容量 -->
+  <RV2_Hediff_QuirkForce_Cheat_InfiniteCapacity.label>无限容量</RV2_Hediff_QuirkForce_Cheat_InfiniteCapacity.label>
+  <RV2_Hediff_QuirkForce_StorageCapacity_Godlike.label>神级容量</RV2_Hediff_QuirkForce_StorageCapacity_Godlike.label>
+  <RV2_Hediff_QuirkForce_StorageCapacity_VeryGood.label>大如洞窟</RV2_Hediff_QuirkForce_StorageCapacity_VeryGood.label>
+  <RV2_Hediff_QuirkForce_StorageCapacity_Good.label>富有弹性</RV2_Hediff_QuirkForce_StorageCapacity_Good.label>
+  <RV2_Hediff_QuirkForce_StorageCapacity_Normal.label>正常容量</RV2_Hediff_QuirkForce_StorageCapacity_Normal.label>
+  <RV2_Hediff_QuirkForce_StorageCapacity_Bad.label>紧凑的</RV2_Hediff_QuirkForce_StorageCapacity_Bad.label>
+  <RV2_Hediff_QuirkForce_StorageCapacity_VeryBad.label>局促不安的</RV2_Hediff_QuirkForce_StorageCapacity_VeryBad.label>
+
+  <!-- 战斗 - 抓取力 -->
+  <RV2_Hediff_QuirkForce_GrappleStrength_VeryGood.label>强力格斗家</RV2_Hediff_QuirkForce_GrappleStrength_VeryGood.label>
+  <RV2_Hediff_QuirkForce_GrappleStrength_Good.label>强壮的格斗家</RV2_Hediff_QuirkForce_GrappleStrength_Good.label>
+  <RV2_Hediff_QuirkForce_GrappleStrength_Normal.label>中等格斗家</RV2_Hediff_QuirkForce_GrappleStrength_Normal.label>
+  <RV2_Hediff_QuirkForce_GrappleStrength_Bad.label>虚弱的格斗家</RV2_Hediff_QuirkForce_GrappleStrength_Bad.label>
+  <RV2_Hediff_QuirkForce_GrappleStrength_VeryBad.label>衰弱的格斗家</RV2_Hediff_QuirkForce_GrappleStrength_VeryBad.label>
+
+  <!-- 挣扎能力 -->
+  <RV2_Hediff_QuirkForce_StruggleCapability_NoStruggleAsPrey.label>久坐的</RV2_Hediff_QuirkForce_StruggleCapability_NoStruggleAsPrey.label>
+  <RV2_Hediff_QuirkForce_StruggleCapability_NoStruggleAsPredator.label>坚不可摧的意志</RV2_Hediff_QuirkForce_StruggleCapability_NoStruggleAsPredator.label>
+
+  <!-- 挣扎强度 (猎物) -->
+  <RV2_Hediff_QuirkForce_StruggleStrength_Prey_VeryGood.label>专业级蠕动者</RV2_Hediff_QuirkForce_StruggleStrength_Prey_VeryGood.label>
+  <RV2_Hediff_QuirkForce_StruggleStrength_Prey_Good.label>强力蠕动者</RV2_Hediff_QuirkForce_StruggleStrength_Prey_Good.label>
+  <RV2_Hediff_QuirkForce_StruggleStrength_Prey_Normal.label>中等蠕动者</RV2_Hediff_QuirkForce_StruggleStrength_Prey_Normal.label>
+  <RV2_Hediff_QuirkForce_StruggleStrength_Prey_Bad.label>虚弱的蠕动者</RV2_Hediff_QuirkForce_StruggleStrength_Prey_Bad.label>
+  <RV2_Hediff_QuirkForce_StruggleStrength_Prey_VeryBad.label>衰弱的蠕动者</RV2_Hediff_QuirkForce_StruggleStrength_Prey_VeryBad.label>
+
+  <!-- 抗挣扎强度 (捕食者) -->
+  <RV2_Hediff_QuirkForce_StruggleStrength_Predator_VeryGood.label>坚定不移的</RV2_Hediff_QuirkForce_StruggleStrength_Predator_VeryGood.label>
+  <RV2_Hediff_QuirkForce_StruggleStrength_Predator_Good.label>坚决的</RV2_Hediff_QuirkForce_StruggleStrength_Predator_Good.label>
+  <RV2_Hediff_QuirkForce_StruggleStrength_Predator_Normal.label>中等抵抗力</RV2_Hediff_QuirkForce_StruggleStrength_Predator_Normal.label>
+  <RV2_Hediff_QuirkForce_StruggleStrength_Predator_Bad.label>虚弱的抵抗力</RV2_Hediff_QuirkForce_StruggleStrength_Predator_Bad.label>
+  <RV2_Hediff_QuirkForce_StruggleStrength_Predator_VeryBad.label>衰弱的抵抗力</RV2_Hediff_QuirkForce_StruggleStrength_Predator_VeryBad.label>
+
+  <!-- 挣扎偏好 (捕食者) -->
+  <RV2_Hediff_QuirkForce_StrugglePreference_Hated.label>厌恶挣扎</RV2_Hediff_QuirkForce_StrugglePreference_Hated.label>
+  <RV2_Hediff_QuirkForce_StrugglePreference_Normal.label>挣扎中立</RV2_Hediff_QuirkForce_StrugglePreference_Normal.label>
+  <RV2_Hediff_QuirkForce_StrugglePreference_Loved.label>热爱挣扎</RV2_Hediff_QuirkForce_StrugglePreference_Loved.label>
+
 </LanguageData>
