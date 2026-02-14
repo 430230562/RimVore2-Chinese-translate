@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 设置 -->
+  <RV2_Settings_TabNames_RJW>边缘工作世界</RV2_Settings_TabNames_RJW>
+  <RV2_RJW_Settings_BaseSexEjectChance>性行为中猎物排出的几率</RV2_RJW_Settings_BaseSexEjectChance>
+  <RV2_RJW_Settings_BaseSexEjectChance_Tip>捕食者在性行为中将猎物从合适的性器官中排出的基础几率。此几率会受到癖好影响！</RV2_RJW_Settings_BaseSexEjectChance_Tip>
+  <RV2_RJW_Settings_VaginalVoreAbortsPregnancies>阴道吞食终止妊娠</RV2_RJW_Settings_VaginalVoreAbortsPregnancies>
+  <RV2_RJW_Settings_VaginalVoreAbortsPregnancies_Tip>开启后，任何阴道吞食都会终止妊娠，无论怀孕多久。一旦猎物进入子宫，妊娠即被终止。</RV2_RJW_Settings_VaginalVoreAbortsPregnancies_Tip>
+  <RV2_RJW_Settings_PostSexProposalChance>性后吞食提议几率</RV2_RJW_Settings_PostSexProposalChance>
+  <RV2_RJW_Settings_PostSexProposalChance_Tip>性行为发起者向接受者提出吞食提议的几率</RV2_RJW_Settings_PostSexProposalChance_Tip>
+  <RV2_RJW_Settings_PostSexProposalsAreForced>性后吞食提议是否为强制性的？</RV2_RJW_Settings_PostSexProposalsAreForced>
+  <RV2_RJW_Settings_PostSexProposalsAreForced_Tip>意味着吞食是在非自愿的情况下进行的，跳过接受几率的判定</RV2_RJW_Settings_PostSexProposalsAreForced_Tip>
+  <RV2_RJW_Settings_PostRapeProposalChance>强奸后吞食提议几率</RV2_RJW_Settings_PostRapeProposalChance>
+  <RV2_RJW_Settings_PostRapeProposalChance_Tip>强奸发起者向受害小人提出吞食提议的几率</RV2_RJW_Settings_PostRapeProposalChance_Tip>
+  <RV2_RJW_Settings_PostRapeProposalsAreForced>强奸后吞食提议是否为强制性的？</RV2_RJW_Settings_PostRapeProposalsAreForced>
+  <RV2_RJW_Settings_PostRapeProposalsAreForced_Tip>意味着吞食是在非自愿的情况下进行的，跳过接受几率的判定</RV2_RJW_Settings_PostRapeProposalsAreForced_Tip>
+  <RV2_RJW_Settings_EjectNotificationType>性行为中猎物排出通知</RV2_RJW_Settings_EjectNotificationType>
+  <RV2_RJW_Settings_TransferNotificationType>性行为中猎物转移通知</RV2_RJW_Settings_TransferNotificationType>
+  <RV2_RJW_Settings_BestialityIsRape>兽交视为强奸</RV2_RJW_Settings_BestialityIsRape>
+  <RV2_RJW_Settings_BestialityIsRape_Tip>开启后，所有与动物的性行为都将导致强制性的性后吞食提议。\n\nRJW 总是将兽交标记为强奸——这意味着性后吞食提议将始终是强制性的。RV-2 默认禁用了此逻辑。\n\n使用此设置，RV-2 将根据发起者的动物驯服技能正确计算提议成功几率，而不是假设提议是强制性的且无需对方同意。\n\n这不会改变 RJW 处理强奸或兽交的方式，仅改变 RV-2 评估提议是否为强制性的方式！</RV2_RJW_Settings_BestialityIsRape_Tip>
+  <RV2_RJW_Settings_DisableVoreGrappleDuringSex>在性行为中禁用吞食擒抱</RV2_RJW_Settings_DisableVoreGrappleDuringSex>
+  <RV2_RJW_Settings_DisableVoreGrappleDuringSex_Tip>主要与强奸殴打有关。开启此选项将阻止强奸犯对其强奸目标进行吞食擒抱。</RV2_RJW_Settings_DisableVoreGrappleDuringSex_Tip>
+  
+  <!-- 通知标签 -->
+  <RV2_RJW_PreySexEjectLabel>猎物被排出</RV2_RJW_PreySexEjectLabel>
+  <RV2_RJW_PreySexEjectDescription>{GIVER} 和 {RECEIVER} 发生了性行为 ({SEX})，而此时 {GIVER} 的体内 ({OLDVORETYPE} 吞食) 有猎物 {PREY}。{GIVER} 因高潮将 {PREY} 排出了体外。</RV2_RJW_PreySexEjectDescription>
+  
+  <RV2_RJW_PreySexTransferLabel>猎物被转移</RV2_RJW_PreySexTransferLabel>
+  <RV2_RJW_PreySexTransferDescription>{GIVER} 和 {RECEIVER} 发生了性行为 ({SEX})，而此时 {GIVER} 的体内 ({OLDVORETYPE} 吞食) 有猎物 {PREY}。{RECEIVER} 现在正以 ({NEWVOREGOAL}) 为目的，通过 {NEWVORETYPE} 吞食 {PREY}。</RV2_RJW_PreySexTransferDescription>
+
+</LanguageData>
+
+<!-- RV2_RJW_ -->
