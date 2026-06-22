@@ -2,13 +2,13 @@
 <LanguageData>
 
   <!-- 口腔路径 -->
-  <OralDrain.label>(吸取) 口腔路径</OralDrain.label>
+  <OralDrain.label>(吸取) 口腔</OralDrain.label>
   <OralDrain.RMBLabel>口腔吞噬(口腔)</OralDrain.RMBLabel>
   <OralDrain.actionDescription>{PREDATOR}正试图将{PREY}整个吞下并吸取其体力</OralDrain.actionDescription>
   <OralDrain.description>捕食者将猎物吞入胃中吸取体力。虽不致命，但会导致猎物睡眠需求急剧下降。</OralDrain.description>
 
   <!-- 肛门路径 -->
-  <AnalDrain.label>(吸取) 肛门路径</AnalDrain.label>
+  <AnalDrain.label>(吸取) 肛门</AnalDrain.label>
   <AnalDrain.RMBLabel>肛门吞噬(肛门)</AnalDrain.RMBLabel>
   <AnalDrain.actionDescription>{0}正试图从后方吞下{1}并吸取其体力</AnalDrain.actionDescription>
   <AnalDrain.description>捕食者通过肛门将猎物吞入胃中吸取体力。虽不致命，但会导致猎物睡眠需求急剧下降。</AnalDrain.description>
