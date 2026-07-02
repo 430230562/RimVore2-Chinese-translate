@@ -18,9 +18,9 @@
   <CleavageHold.actionDescription>{0}正尝试将{1}暂存于乳沟</CleavageHold.actionDescription>
   <CleavageHold.description>捕食者通过乳沟对猎物进行临时储存。</CleavageHold.description>
 
-  <!-- 皮下暂存 -->
-  <MembraneHold.label>(暂存)皮下</MembraneHold.label>
-  <MembraneHold.RMBLabel>皮下吞噬(暂存)</MembraneHold.RMBLabel>
+  <!-- 表膜暂存 -->
+  <MembraneHold.label>(暂存)表膜</MembraneHold.label>
+  <MembraneHold.RMBLabel>表膜吞噬(暂存)</MembraneHold.RMBLabel>
   <MembraneHold.actionDescription>{0}正尝试通过皮肤吸收{1}进行暂存</MembraneHold.actionDescription>
   <MembraneHold.description>捕食者以黏液状吸收方式将猎物暂存于体内。</MembraneHold.description>
 

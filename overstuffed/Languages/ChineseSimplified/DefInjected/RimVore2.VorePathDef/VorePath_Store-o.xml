@@ -18,9 +18,9 @@
   <CleavageStore.actionDescription>{0}正试图将{1}禁锢于乳沟</CleavageStore.actionDescription>
   <CleavageStore.description>捕食者通过乳沟对猎物进行半永久性储存。</CleavageStore.description>
 
-  <!-- 皮下储存 -->
-  <MembraneStore.label>(储存)皮下</MembraneStore.label>
-  <MembraneStore.RMBLabel>皮下吞噬(储存)</MembraneStore.RMBLabel>
+  <!-- 表膜储存 -->
+  <MembraneStore.label>(储存)表膜</MembraneStore.label>
+  <MembraneStore.RMBLabel>表膜吞噬(储存)</MembraneStore.RMBLabel>
   <MembraneStore.actionDescription>{0}正试图通过皮肤吸收并禁锢{1}</MembraneStore.actionDescription>
   <MembraneStore.description>捕食者以黏液状吸收方式将猎物半永久性储存于体内。</MembraneStore.description>
 
