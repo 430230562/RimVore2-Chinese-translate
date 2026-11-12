@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: desperate prey -->
+  <RV2World_DesperatePreyEvent.label>绝望猎物</RV2World_DesperatePreyEvent.label>
+  <!-- EN: This pawn is desperate to be eaten. If nobody obliges soon, they will take matters into their own hands. -->
+  <RV2World_DesperatePreyEvent.description>这个小人迫切地想被吃掉。如果很快没有人满足其愿望，他们就会亲自采取行动。</RV2World_DesperatePreyEvent.description>
+  
+</LanguageData>

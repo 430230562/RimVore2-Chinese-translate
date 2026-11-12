@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: digestion speed factor -->
+  <RV2World_DigestionSpeedFactor.label>消化速度系数</RV2World_DigestionSpeedFactor.label>
+  <!-- EN: Multiplier applied to RimVore-2 digestion progress rolls by RV2 World effects. -->
+  <RV2World_DigestionSpeedFactor.description>RV2 World 效果对 RimVore-2 消化进度判定应用的倍率。</RV2World_DigestionSpeedFactor.description>
+  
+  <!-- EN: vore encumbrance offset -->
+  <RV2World_EncumbranceOffset.label>吞噬负重抵消</RV2World_EncumbranceOffset.label>
+  <!-- EN: Moving capacity added only while the pawn is below normal movement capacity, offsetting vore encumbrance. -->
+  <RV2World_EncumbranceOffset.description>仅当小人的移动能力低于正常值时增加移动能力，以抵消吞噬负重。</RV2World_EncumbranceOffset.description>
+  
+  <!-- EN: feed prey from void -->
+  <RV2World_FeedFromVoid.label>从虚空供食</RV2World_FeedFromVoid.label>
+  <!-- EN: When active, non-lethal prey feeding does not drain the predator's food need. -->
+  <RV2World_FeedFromVoid.description>启用后，为非致命猎物供食不会消耗捕食者的食物需求。</RV2World_FeedFromVoid.description>
+  
+  <!-- EN: vore proposal success bonus -->
+  <RV2World_ProposalSuccessBonus.label>吞噬提议成功率加成</RV2World_ProposalSuccessBonus.label>
+  <!-- EN: Additive chance added to RimVore-2 vore proposal acceptance when this pawn is the initiator. -->
+  <RV2World_ProposalSuccessBonus.description>当该小人是发起者时，额外增加 RimVore-2 吞噬提议的接受概率。</RV2World_ProposalSuccessBonus.description>
+  
+  <!-- EN: sex ejection chance factor -->
+  <RV2World_SexEjectChanceFactor.label>性交时排出概率系数</RV2World_SexEjectChanceFactor.label>
+  <!-- EN: Multiplier applied to the chance that this pawn ejects or transfers prey during sex through RimVore-2's SexEjectChance quirk modifier. Requires the RimJobWorld integration; pawns without a quirk manager ignore it. -->
+  <RV2World_SexEjectChanceFactor.description>通过 RimVore-2 的 SexEjectChance 特性修正器，调整该小人在性交时排出或转移猎物概率的倍率。需要 RimJobWorld 集成；没有特性管理器的小人不会受到影响。</RV2World_SexEjectChanceFactor.description>
+  
+  <!-- EN: swallow speed factor -->
+  <RV2World_SwallowSpeedFactor.label>吞咽速度系数</RV2World_SwallowSpeedFactor.label>
+  <!-- EN: Multiplier applied to RimVore-2 swallow duration. Higher values swallow faster. -->
+  <RV2World_SwallowSpeedFactor.description>应用于 RimVore-2 吞咽时长的倍率。数值越高，吞咽越快。</RV2World_SwallowSpeedFactor.description>
+  
+  <!-- EN: vore capacity bonus -->
+  <RV2World_VoreCapacityBonus.label>吞噬容量加成</RV2World_VoreCapacityBonus.label>
+  <!-- EN: Raw vore capacity units added to the pawn's calculated vore capacity by RV2 World effects. -->
+  <RV2World_VoreCapacityBonus.description>RV2 World 效果直接增加到小人计算后吞噬容量中的容量单位。</RV2World_VoreCapacityBonus.description>
+  
+  <!-- EN: vore capacity factor -->
+  <RV2World_VoreCapacityFactor.label>吞噬容量系数</RV2World_VoreCapacityFactor.label>
+  <!-- EN: Multiplier applied to the pawn's calculated vore capacity by RV2 World effects. -->
+  <RV2World_VoreCapacityFactor.description>RV2 World 效果应用于小人计算后吞噬容量的倍率。</RV2World_VoreCapacityFactor.description>
+  
+</LanguageData>

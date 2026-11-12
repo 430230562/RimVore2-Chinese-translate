@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bottomless cache -->
+  <RV2World_VoreblesserBottomlessCache.label>无底空间</RV2World_VoreblesserBottomlessCache.label>
+  <!-- EN: Increase vore capacity by 50% for 10 hours. -->
+  <RV2World_VoreblesserBottomlessCache.description>吞噬容量提高50%，持续10小时。</RV2World_VoreblesserBottomlessCache.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_VoreblesserBottomlessCache.jobReportString>正在使用能力：{0}</RV2World_VoreblesserBottomlessCache.jobReportString>
+  <!-- EN: bottomless cache -->
+  <RV2World_VoreblesserBottomlessCache.verbProperties.label>无底空间</RV2World_VoreblesserBottomlessCache.verbProperties.label>
+  
+  <!-- EN: furnace gut -->
+  <RV2World_VoreblesserFurnaceGut.label>熔炉胃囊</RV2World_VoreblesserFurnaceGut.label>
+  <!-- EN: Digest prey three times faster for 10 hours. -->
+  <RV2World_VoreblesserFurnaceGut.description>消化猎物的速度提高至三倍，持续10小时。</RV2World_VoreblesserFurnaceGut.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_VoreblesserFurnaceGut.jobReportString>正在使用能力：{0}</RV2World_VoreblesserFurnaceGut.jobReportString>
+  <!-- EN: furnace gut -->
+  <RV2World_VoreblesserFurnaceGut.verbProperties.label>熔炉胃囊</RV2World_VoreblesserFurnaceGut.verbProperties.label>
+  
+  <!-- EN: safe passage -->
+  <RV2World_VoreblesserSafePassage.label>安全通行</RV2World_VoreblesserSafePassage.label>
+  <!-- EN: Grant prey held inside the target accelerated immunity, healing, and pain resistance for 12 hours. -->
+  <RV2World_VoreblesserSafePassage.description>使目标体内的猎物在12小时内加快提升免疫力、伤势恢复，并增强疼痛抵抗力。</RV2World_VoreblesserSafePassage.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_VoreblesserSafePassage.jobReportString>正在使用能力：{0}</RV2World_VoreblesserSafePassage.jobReportString>
+  <!-- EN: safe passage -->
+  <RV2World_VoreblesserSafePassage.verbProperties.label>安全通行</RV2World_VoreblesserSafePassage.verbProperties.label>
+  
+  <!-- EN: silver tongue -->
+  <RV2World_VoreblesserSilverTongue.label>巧舌如簧</RV2World_VoreblesserSilverTongue.label>
+  <!-- EN: Improve vore proposal acceptance by 25% for 14 hours. -->
+  <RV2World_VoreblesserSilverTongue.description>吞噬提议的接受率提高25%，持续14小时。</RV2World_VoreblesserSilverTongue.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_VoreblesserSilverTongue.jobReportString>正在使用能力：{0}</RV2World_VoreblesserSilverTongue.jobReportString>
+  <!-- EN: silver tongue -->
+  <RV2World_VoreblesserSilverTongue.verbProperties.label>巧舌如簧</RV2World_VoreblesserSilverTongue.verbProperties.label>
+  
+  <!-- EN: stomach of holding -->
+  <RV2World_VoreblesserStomachOfHolding.label>次元胃囊</RV2World_VoreblesserStomachOfHolding.label>
+  <!-- EN: Increase vore capacity by 50% and reduce hunger rate for 1.5 days. -->
+  <RV2World_VoreblesserStomachOfHolding.description>吞噬容量提高50%，饥饿速度降低，持续1.5天。</RV2World_VoreblesserStomachOfHolding.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_VoreblesserStomachOfHolding.jobReportString>正在使用能力：{0}</RV2World_VoreblesserStomachOfHolding.jobReportString>
+  <!-- EN: stomach of holding -->
+  <RV2World_VoreblesserStomachOfHolding.verbProperties.label>次元胃囊</RV2World_VoreblesserStomachOfHolding.verbProperties.label>
+  
+  <!-- EN: super-rapid digestion -->
+  <RV2World_VoreblesserSuperRapidDigestion.label>超速消化</RV2World_VoreblesserSuperRapidDigestion.label>
+  <!-- EN: Push digestion to near-instantaneous speed for 1 hour. -->
+  <RV2World_VoreblesserSuperRapidDigestion.description>消化速度几乎瞬间完成，持续1小时。</RV2World_VoreblesserSuperRapidDigestion.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_VoreblesserSuperRapidDigestion.jobReportString>正在使用能力：{0}</RV2World_VoreblesserSuperRapidDigestion.jobReportString>
+  <!-- EN: super-rapid digestion -->
+  <RV2World_VoreblesserSuperRapidDigestion.verbProperties.label>超速消化</RV2World_VoreblesserSuperRapidDigestion.verbProperties.label>
+  
+  <!-- EN: sweeping mouth -->
+  <RV2World_VoreblesserSweepingMouth.label>吞咽如风</RV2World_VoreblesserSweepingMouth.label>
+  <!-- EN: Swallow prey three times faster for 8 hours. -->
+  <RV2World_VoreblesserSweepingMouth.description>吞咽猎物的速度提高至三倍，持续8小时。</RV2World_VoreblesserSweepingMouth.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_VoreblesserSweepingMouth.jobReportString>正在使用能力：{0}</RV2World_VoreblesserSweepingMouth.jobReportString>
+  <!-- EN: sweeping mouth -->
+  <RV2World_VoreblesserSweepingMouth.verbProperties.label>吞咽如风</RV2World_VoreblesserSweepingMouth.verbProperties.label>
+  
+  <!-- EN: perfect prison cell -->
+  <RV2World_VoreblesserUltimatePrisonCell.label>完美囚笼</RV2World_VoreblesserUltimatePrisonCell.label>
+  <!-- EN: Open a permanent psychic holding space: vore capacity becomes effectively unlimited, vore encumbrance is practically ignored, non-lethal prey feed from the void instead of draining the predator's food, digestion is halved, and prey cannot be ejected or transferred during sex. Applying the buff puts the caster and target into a one-day coma. Casting it again on the same pawn dismisses the buff without another coma. -->
+  <RV2World_VoreblesserUltimatePrisonCell.description>开启永久存在的灵能收容空间：吞噬容量近乎无限，吞噬负重几乎不再造成影响；非致命猎物从虚空获取食物，不会消耗捕食者的食物；消化时间减半；且无法在性交期间排出或转移猎物。施加此增益会使施法者和目标昏迷一天。再次对同一名小人施放即可解除增益，且不会再次昏迷。</RV2World_VoreblesserUltimatePrisonCell.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_VoreblesserUltimatePrisonCell.jobReportString>正在使用能力：{0}</RV2World_VoreblesserUltimatePrisonCell.jobReportString>
+  <!-- EN: perfect prison cell -->
+  <RV2World_VoreblesserUltimatePrisonCell.verbProperties.label>完美囚笼</RV2World_VoreblesserUltimatePrisonCell.verbProperties.label>
+  
+  <!-- EN: unburdened -->
+  <RV2World_VoreblesserUnburdened.label>身轻如燕</RV2World_VoreblesserUnburdened.label>
+  <!-- EN: Offset the movement penalty from vore encumbrance for 8 hours. -->
+  <RV2World_VoreblesserUnburdened.description>抵消吞噬负重带来的移动速度惩罚，持续8小时。</RV2World_VoreblesserUnburdened.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_VoreblesserUnburdened.jobReportString>正在使用能力：{0}</RV2World_VoreblesserUnburdened.jobReportString>
+  <!-- EN: unburdened -->
+  <RV2World_VoreblesserUnburdened.verbProperties.label>身轻如燕</RV2World_VoreblesserUnburdened.verbProperties.label>
+  
+</LanguageData>

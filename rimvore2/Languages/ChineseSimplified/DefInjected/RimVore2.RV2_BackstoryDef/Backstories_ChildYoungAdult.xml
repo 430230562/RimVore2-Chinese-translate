@@ -19,7 +19,7 @@
 
   <RV2_CYA_PredAnytypeDigest_CasualDubious_CheerleaderGluttonous.title>RV2 贪食啦啦队员</RV2_CYA_PredAnytypeDigest_CasualDubious_CheerleaderGluttonous.title>
   <RV2_CYA_PredAnytypeDigest_CasualDubious_CheerleaderGluttonous.titleShort>啦啦队员</RV2_CYA_PredAnytypeDigest_CasualDubious_CheerleaderGluttonous.titleShort>
-  <RV2_CYA_PredAnytypeDigest_CasualDubious_CheerleaderGluttonous.description>[PAWN_nameDef]从小学到大学持续从事啦啦队活动。[PAWN_possessive]美貌是团队的焦点，即使吃下与体重相当的垃圾食品也能保持体型。当[PAWN_pronoun]在大学接触吞噬文化后，"身体重量"开始有了字面意义。托举赞美他人的能力，转化为在更衣室将猎物塞入[PAWN_possessive]喉咙（或臀部等任何部位）的能力。当然，为维持团队形象，[PAWN_nameDef]必须谨慎规划饮食——毕竟败队成员按规定要被胜者吞噬。</RV2_CYA_PredAnytypeDigest_CasualDubious_CheerleaderGluttonous.description>
+  <RV2_CYA_PredAnytypeDigest_CasualDubious_CheerleaderGluttonous.description>[PAWN_nameDef]从小学到大学持续从事啦啦队活动。[PAWN_possessive]美貌是团队的焦点，即使吃下与体重相当的垃圾食品也能保持体型。当[PAWN_pronoun]在大学接触吞噬文化后，"身体重量"开始有了字面意义。托举赞美他人的能力，转化为在更衣室将猎物塞入[PAWN_possessive]喉咙（或臀部等任何部位）的能力。当然，为维持团队形象，[PAWN_nameDef]必须谨慎规划饮食——毕竟败队成员按规定要被胜者吞食。</RV2_CYA_PredAnytypeDigest_CasualDubious_CheerleaderGluttonous.description>
 
 
   <!-- 捕食者 任意类型 消化 公开 可疑 -->
@@ -61,10 +61,13 @@
   <RV2_CYA_PredAnytypeDigest_ReluctantUnwilling_GurglerRegretful.titleShort>掠食者</RV2_CYA_PredAnytypeDigest_ReluctantUnwilling_GurglerRegretful.titleShort>
   <RV2_CYA_PredAnytypeDigest_ReluctantUnwilling_GurglerRegretful.description>当[PAWN_nameDef]反复描述的恐怖隆起与消化声成为现实时，[PAWN_pronoun]才觉醒吞噬欲望。这意外让未成熟的良心化作长久折磨[PAWN_pronoun]的悔恨。</RV2_CYA_PredAnytypeDigest_ReluctantUnwilling_GurglerRegretful.description>
 
-  <RV2_CYA_PredAnytypeDigest_ReluctantUnwilling_RunawayVoracious.title>RV2 血渍逃亡者</RV2_CYA_PredAnytypeDigest_ReluctantUnwilling_RunawayVoracious.title>
-  <RV2_CYA_PredAnytypeDigest_ReluctantUnwilling_RunawayVoracious.titleShort>离家者</RV2_CYA_PredAnytypeDigest_ReluctantUnwilling_RunawayVoracious.titleShort>
-  <RV2_CYA_PredAnytypeDigest_ReluctantUnwilling_RunawayVoracious.description>因不堪回首的童年，[PAWN_nameDef]在青年期接触吞噬文化后，为埋葬过去并重启人生，[PAWN_pronoun]将一切葬入胃袋。自此吞噬成为[PAWN_nameDef]比笔墨刀剑更强大的"答案"。</RV2_CYA_PredAnytypeDigest_ReluctantUnwilling_RunawayVoracious.description>
-
+<!-- EN: [PAWN_nameDef] had a lousy childhood which [PAWN_pronoun] would rather not remember, so when [PAWN_pronoun] discovered vore, shortly into adulthood, [PAWN_pronoun] immediately used it to sever all ties to [PAWN_possessive] old life, flee the scene, and reinvent [PAWN_objective]self. Ever since, vore has been the first and only answer to every bad situation [PAWN_nameDef] has found [PAWN_objective]self in. -->
+  <RV2_CYA_PredAnytypeDigest_ReluctantUnwilling_Voracious.description>RV2 血渍逃亡者</RV2_CYA_PredAnytypeDigest_ReluctantUnwilling_Voracious.description>
+  <!-- EN: voracious runaway -->
+  <RV2_CYA_PredAnytypeDigest_ReluctantUnwilling_Voracious.title>逃亡者</RV2_CYA_PredAnytypeDigest_ReluctantUnwilling_Voracious.title>
+  <!-- EN: runaway -->
+  <RV2_CYA_PredAnytypeDigest_ReluctantUnwilling_Voracious.titleShort>因不堪回首的童年，[PAWN_nameDef]在青年期接触吞噬文化后，为埋葬过去并重启人生，[PAWN_pronoun]将一切葬入胃袋。自此吞噬成为[PAWN_nameDef]比笔墨刀剑更强大的"答案"。</RV2_CYA_PredAnytypeDigest_ReluctantUnwilling_Voracious.titleShort>
+  
 
   <!-- 捕食者 口腔 任意目的 随意 可疑 -->
 

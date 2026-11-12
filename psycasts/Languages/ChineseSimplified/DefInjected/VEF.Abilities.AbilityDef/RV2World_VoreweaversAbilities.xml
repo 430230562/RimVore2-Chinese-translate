@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: folded sacrifice -->
+  <RV2World_TeleVoreFeedFatal.label>折叠献身</RV2World_TeleVoreFeedFatal.label>
+  <!-- EN: Fold the first target directly into the second target's body and let them be consumed. Select the prey first, then the predator. The caster is the feeder. The caster's preferred lethal vore goal is used. -->
+  <RV2World_TeleVoreFeedFatal.description>将第一个目标直接折叠进第二个目标的身体并将其吞噬。先选择猎物，再选择捕食者。施法者是喂食者，并使用施法者偏好的致命吞噬目标。</RV2World_TeleVoreFeedFatal.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_TeleVoreFeedFatal.jobReportString>正在使用能力：{0}</RV2World_TeleVoreFeedFatal.jobReportString>
+  <!-- EN: folded sacrifice -->
+  <RV2World_TeleVoreFeedFatal.verbProperties.label>折叠献身</RV2World_TeleVoreFeedFatal.verbProperties.label>
+  
+  <!-- EN: folded sharing -->
+  <RV2World_TeleVoreFeedNonFatal.label>折叠分享</RV2World_TeleVoreFeedNonFatal.label>
+  <!-- EN: Fold the first target directly into the second target's body. Select the prey first, then the predator. The caster is the feeder. The caster's preferred non-fatal vore goal is used. -->
+  <RV2World_TeleVoreFeedNonFatal.description>将第一个目标直接折叠进第二个目标的身体。先选择猎物，再选择捕食者。施法者是喂食者，并使用施法者偏好的非致命吞噬目标。</RV2World_TeleVoreFeedNonFatal.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_TeleVoreFeedNonFatal.jobReportString>正在使用能力：{0}</RV2World_TeleVoreFeedNonFatal.jobReportString>
+  <!-- EN: folded sharing -->
+  <RV2World_TeleVoreFeedNonFatal.verbProperties.label>折叠分享</RV2World_TeleVoreFeedNonFatal.verbProperties.label>
+  
+  <!-- EN: folded presentation -->
+  <RV2World_TeleVoreFeedStore.label>折叠收容</RV2World_TeleVoreFeedStore.label>
+  <!-- EN: Fold the first target directly into the second target's body for safekeeping. Select the prey first, then the predator. The caster is the feeder. The vore goal is always Store. -->
+  <RV2World_TeleVoreFeedStore.description>将第一个目标直接折叠进第二个目标的身体以确保安全。先选择猎物，再选择捕食者。施法者是喂食者，吞噬目标始终为收容。</RV2World_TeleVoreFeedStore.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_TeleVoreFeedStore.jobReportString>正在使用能力：{0}</RV2World_TeleVoreFeedStore.jobReportString>
+  <!-- EN: folded presentation -->
+  <RV2World_TeleVoreFeedStore.verbProperties.label>折叠收容</RV2World_TeleVoreFeedStore.verbProperties.label>
+  
+  <!-- EN: release target -->
+  <RV2World_TeleVoreReleaseTarget.label>释放目标</RV2World_TeleVoreReleaseTarget.label>
+  <!-- EN: Fold a target predator's prey back out of them, or release the target pawn if it is prey. The voreweaver path can do this at a distance. -->
+  <RV2World_TeleVoreReleaseTarget.description>将目标捕食者体内的猎物折叠出来；如果目标小人本身是猎物，则将其释放。空间编织路径可远距离施放此技能。</RV2World_TeleVoreReleaseTarget.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_TeleVoreReleaseTarget.jobReportString>正在使用能力：{0}</RV2World_TeleVoreReleaseTarget.jobReportString>
+  <!-- EN: release target -->
+  <RV2World_TeleVoreReleaseTarget.verbProperties.label>释放目标</RV2World_TeleVoreReleaseTarget.verbProperties.label>
+  
+  <!-- EN: final fold -->
+  <RV2World_TeleVoreSelfFatal.label>最终折叠</RV2World_TeleVoreSelfFatal.label>
+  <!-- EN: Fold the caster directly into the target's body and let them be consumed. The caster's preferred lethal vore goal is used. This is a costly use of psychic concentration and generates a large amount of neural heat. -->
+  <RV2World_TeleVoreSelfFatal.description>将施法者直接折叠进目标的身体并让其被吞噬。使用施法者偏好的致命吞噬目标。此举会大量消耗灵能专注，并产生大量神经热量。</RV2World_TeleVoreSelfFatal.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_TeleVoreSelfFatal.jobReportString>正在使用能力：{0}</RV2World_TeleVoreSelfFatal.jobReportString>
+  <!-- EN: final fold -->
+  <RV2World_TeleVoreSelfFatal.verbProperties.label>最终折叠</RV2World_TeleVoreSelfFatal.verbProperties.label>
+  
+  <!-- EN: self-folding offering -->
+  <RV2World_TeleVoreSelfNonFatal.label>自我折叠献身</RV2World_TeleVoreSelfNonFatal.label>
+  <!-- EN: Fold the caster directly into the target's body. The caster's preferred non-fatal vore goal is used. This is a costly use of psychic concentration and generates a large amount of neural heat. -->
+  <RV2World_TeleVoreSelfNonFatal.description>将施法者直接折叠进目标的身体。使用施法者偏好的非致命吞噬目标。此举会大量消耗灵能专注，并产生大量神经热量。</RV2World_TeleVoreSelfNonFatal.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_TeleVoreSelfNonFatal.jobReportString>正在使用能力：{0}</RV2World_TeleVoreSelfNonFatal.jobReportString>
+  <!-- EN: self-folding offering -->
+  <RV2World_TeleVoreSelfNonFatal.verbProperties.label>自我折叠献身</RV2World_TeleVoreSelfNonFatal.verbProperties.label>
+  
+  <!-- EN: self-folding shelter -->
+  <RV2World_TeleVoreSelfStore.label>自我折叠收容</RV2World_TeleVoreSelfStore.label>
+  <!-- EN: Fold the caster directly into the target's body for safekeeping. The vore goal is always Store. This is a costly use of psychic concentration and generates a large amount of neural heat. -->
+  <RV2World_TeleVoreSelfStore.description>将施法者直接折叠进目标的身体以确保安全。吞噬目标始终为收容。此举会大量消耗灵能专注，并产生大量神经热量。</RV2World_TeleVoreSelfStore.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_TeleVoreSelfStore.jobReportString>正在使用能力：{0}</RV2World_TeleVoreSelfStore.jobReportString>
+  <!-- EN: self-folding shelter -->
+  <RV2World_TeleVoreSelfStore.verbProperties.label>自我折叠收容</RV2World_TeleVoreSelfStore.verbProperties.label>
+  
+  <!-- EN: folded devouring -->
+  <RV2World_TeleVoreTargetFatal.label>折叠吞噬</RV2World_TeleVoreTargetFatal.label>
+  <!-- EN: Fold the target directly into the caster's body and consume them. The caster's preferred lethal vore goal is used. This is a costly use of psychic concentration and generates a large amount of neural heat. -->
+  <RV2World_TeleVoreTargetFatal.description>将目标直接折叠进施法者的身体并将其吞噬。使用施法者偏好的致命吞噬目标。此举会大量消耗灵能专注，并产生大量神经热量。</RV2World_TeleVoreTargetFatal.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_TeleVoreTargetFatal.jobReportString>正在使用能力：{0}</RV2World_TeleVoreTargetFatal.jobReportString>
+  <!-- EN: folded devouring -->
+  <RV2World_TeleVoreTargetFatal.verbProperties.label>折叠吞噬</RV2World_TeleVoreTargetFatal.verbProperties.label>
+  
+  <!-- EN: folded communion -->
+  <RV2World_TeleVoreTargetNonFatal.label>折叠入体</RV2World_TeleVoreTargetNonFatal.label>
+  <!-- EN: Fold the target directly into the caster's body. The caster's preferred non-fatal vore goal is used. This is a costly use of psychic concentration and generates a large amount of neural heat. -->
+  <RV2World_TeleVoreTargetNonFatal.description>将目标直接折叠进施法者的身体。使用施法者偏好的非致命吞噬目标。此举会大量消耗灵能专注，并产生大量神经热量。</RV2World_TeleVoreTargetNonFatal.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_TeleVoreTargetNonFatal.jobReportString>正在使用能力：{0}</RV2World_TeleVoreTargetNonFatal.jobReportString>
+  <!-- EN: folded communion -->
+  <RV2World_TeleVoreTargetNonFatal.verbProperties.label>折叠入体</RV2World_TeleVoreTargetNonFatal.verbProperties.label>
+  
+  <!-- EN: folded shelter -->
+  <RV2World_TeleVoreTargetStore.label>折叠收容</RV2World_TeleVoreTargetStore.label>
+  <!-- EN: Fold the target directly into the caster's body for safekeeping. The vore goal is always Store. This is a costly use of psychic concentration and generates a large amount of neural heat. -->
+  <RV2World_TeleVoreTargetStore.description>将目标直接折叠进施法者的身体以确保安全。吞噬目标始终为收容。此举会大量消耗灵能专注，并产生大量神经热量。</RV2World_TeleVoreTargetStore.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_TeleVoreTargetStore.jobReportString>正在使用能力：{0}</RV2World_TeleVoreTargetStore.jobReportString>
+  <!-- EN: folded shelter -->
+  <RV2World_TeleVoreTargetStore.verbProperties.label>折叠收容</RV2World_TeleVoreTargetStore.verbProperties.label>
+  
+</LanguageData>

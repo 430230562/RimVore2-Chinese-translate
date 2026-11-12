@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: voreweavers -->
+  <RV2World_Voreweavers.label>空间编织者</RV2World_Voreweavers.label>
+  <!-- EN: Voreweavers fold the boundary between predator and prey out of the way. They can place themselves inside another pawn or draw another pawn into themselves in an instant, guided either by their own desires or by a deliberate, safe storage instinct. -->
+  <RV2World_Voreweavers.description>空间编织者能够折叠捕食者与猎物之间的界限。他们可以瞬间将自己置于另一名小人体内，或将另一名小人拉入自己体内；行动既可遵从自身欲望，也可出于有意为之的安全收容。</RV2World_Voreweavers.description>
+  <!-- EN: Voreweavers do not walk their prey down a throat; they fold space so the body arrives already inside. Their psycasts can place the caster within another pawn or pull another pawn into the caster, with the caster's preference deciding the goal. -->
+  <RV2World_Voreweavers.tooltip>空间编织者不会让猎物沿喉咙进入体内，而是折叠空间，使目标直接出现在体内。他们的灵能技能可将施法者置于另一名小人体内，或将另一名小人拉入施法者体内，最终目标由施法者的偏好决定。</RV2World_Voreweavers.tooltip>
+  
+</LanguageData>

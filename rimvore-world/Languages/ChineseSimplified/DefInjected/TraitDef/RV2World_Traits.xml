@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: desperate prey -->
+  <RV2World_DesperatePrey.degreeDatas.desperate_prey.label>绝望猎物</RV2World_DesperatePrey.degreeDatas.desperate_prey.label>
+  <!-- EN: [PAWN_nameDef] is consumed by the need to be eaten. Every so often, [PAWN_pronoun] will abandon all caution and try to throw [PAWN_objective] at the nearest predator, preferring colonists first, then other humanoids, and finally any creature that will have [PAWN_objective]. -->
+  <RV2World_DesperatePrey.degreeDatas.desperate_prey.description>[PAWN_nameDef]满脑子都想着被吃掉。时不时地，[PAWN_pronoun]会抛开一切顾虑，试图把[PAWN_objective]送到最近的捕食者口中；优先寻找殖民者，其次是其他人形生物，最后是任何愿意吞下[PAWN_objective]的生物。</RV2World_DesperatePrey.degreeDatas.desperate_prey.description>
+  
+</LanguageData>

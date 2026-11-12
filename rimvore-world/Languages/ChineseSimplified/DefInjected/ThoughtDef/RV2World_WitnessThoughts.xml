@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: watched an unsettling predation -->
+  <RV2World_WitnessedEndoVore_Negative.stages.watched_an_unsettling_predation.label>目睹令人不安的吞噬</RV2World_WitnessedEndoVore_Negative.stages.watched_an_unsettling_predation.label>
+  <!-- EN: I watched someone get swallowed. That was unsettling. -->
+  <RV2World_WitnessedEndoVore_Negative.stages.watched_an_unsettling_predation.description>我看见有人被吞下去了。真让人不安。</RV2World_WitnessedEndoVore_Negative.stages.watched_an_unsettling_predation.description>
+  
+  <!-- EN: watched an intriguing predation -->
+  <RV2World_WitnessedEndoVore_Positive.stages.watched_an_intriguing_predation.label>目睹引人入胜的吞噬</RV2World_WitnessedEndoVore_Positive.stages.watched_an_intriguing_predation.label>
+  <!-- EN: I saw a predator take someone in. Strange, but not unpleasant. -->
+  <RV2World_WitnessedEndoVore_Positive.stages.watched_an_intriguing_predation.description>我看见一名捕食者把人吞进了体内。虽然奇怪，但并不令人讨厌。</RV2World_WitnessedEndoVore_Positive.stages.watched_an_intriguing_predation.description>
+  
+  <!-- EN: unsettled by their predation -->
+  <RV2World_WitnessedEndoVore_Social_Negative.stages.unsettled_by_their_predation.label>对其吞噬行为感到不安</RV2World_WitnessedEndoVore_Social_Negative.stages.unsettled_by_their_predation.label>
+  
+  <!-- EN: intrigued by their predation -->
+  <RV2World_WitnessedEndoVore_Social_Positive.stages.intrigued_by_their_predation.label>对其吞噬行为感到好奇</RV2World_WitnessedEndoVore_Social_Positive.stages.intrigued_by_their_predation.label>
+  
+  <!-- EN: watched a horrifying predation -->
+  <RV2World_WitnessedFatalVore_Negative.stages.watched_a_horrifying_predation.label>目睹骇人的吞噬</RV2World_WitnessedFatalVore_Negative.stages.watched_a_horrifying_predation.label>
+  <!-- EN: I watched someone get eaten alive. That was horrifying. -->
+  <RV2World_WitnessedFatalVore_Negative.stages.watched_a_horrifying_predation.description>我看见有人被活生生地吃掉了。太可怕了。</RV2World_WitnessedFatalVore_Negative.stages.watched_a_horrifying_predation.description>
+  
+  <!-- EN: watched an impressive predation -->
+  <RV2World_WitnessedFatalVore_Positive.stages.watched_an_impressive_predation.label>目睹令人赞叹的吞噬</RV2World_WitnessedFatalVore_Positive.stages.watched_an_impressive_predation.label>
+  <!-- EN: I saw a predator swallow someone whole. Impressive. -->
+  <RV2World_WitnessedFatalVore_Positive.stages.watched_an_impressive_predation.description>我看见一名捕食者把人整个吞了下去。真了不起。</RV2World_WitnessedFatalVore_Positive.stages.watched_an_impressive_predation.description>
+  
+  <!-- EN: disgusted by their predation -->
+  <RV2World_WitnessedFatalVore_Social_Negative.stages.disgusted_by_their_predation.label>对其吞噬行为感到厌恶</RV2World_WitnessedFatalVore_Social_Negative.stages.disgusted_by_their_predation.label>
+  
+  <!-- EN: impressed by their predation -->
+  <RV2World_WitnessedFatalVore_Social_Positive.stages.impressed_by_their_predation.label>对其吞噬行为印象深刻</RV2World_WitnessedFatalVore_Social_Positive.stages.impressed_by_their_predation.label>
+  
+</LanguageData>

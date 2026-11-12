@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: There is no valid vore path for these pawns. -->
+  <RV2World_NoValidVorePath>这些小人没有有效的吞噬路径。</RV2World_NoValidVorePath>
+  <!-- EN: The psycast has no caster. -->
+  <RV2World_VorePsycast_NoCaster>该灵能技能没有施法者。</RV2World_VorePsycast_NoCaster>
+  <!-- EN: The psycast target is not a valid pawn. -->
+  <RV2World_VorePsycast_InvalidTarget>灵能技能的目标不是有效的小人。</RV2World_VorePsycast_InvalidTarget>
+  <!-- EN: A pawn cannot vore itself with this psycast. -->
+  <RV2World_VorePsycast_SelfTarget>此灵能技能不能用于吞噬自己。</RV2World_VorePsycast_SelfTarget>
+  <!-- EN: This psycast needs two different target pawns: first the prey, then the predator. -->
+  <RV2World_VorePsycast_InvalidFeederTargets>此灵能技能需要选择两名不同的小人作为目标：先选猎物，再选捕食者。</RV2World_VorePsycast_InvalidFeederTargets>
+  <!-- EN: The caster must be a separate feeder, not the prey or the predator. -->
+  <RV2World_VorePsycast_FeederMustBeThirdPawn>施法者必须是另一名喂食者，不能是猎物或捕食者。</RV2World_VorePsycast_FeederMustBeThirdPawn>
+  <!-- EN: The target has no prey to release. -->
+  <RV2World_VorePsycast_NoPreyToRelease>目标体内没有可释放的猎物。</RV2World_VorePsycast_NoPreyToRelease>
+
+  <!-- Settings tab -->
+  <!-- EN: Vore psycasts -->
+  <RV2WorldPsycasts_Settings_TabName>吞噬灵能技能</RV2WorldPsycasts_Settings_TabName>
+
+  <!-- EN: Designations -->
+  <RV2WorldPsycasts_Settings_DesignationsHeader>指定标记</RV2WorldPsycasts_Settings_DesignationsHeader>
+  <!-- EN: Vore psycast designations -->
+  <RV2WorldPsycasts_Settings_DesignationMode>吞噬灵能技能的指定标记</RV2WorldPsycasts_Settings_DesignationMode>
+  <!-- EN: Controls whether vore psycasts honour the predator, fatal prey and endo prey designations set on pawns. Other RimVore-2 capability checks and rules (age, capacity, enabled paths and goals) are still enforced.\n\nAlways respect: every caster follows the designations.\nEnemies ignore: player-cast psycasts follow them, enemy casters do not.\nIgnore altogether: vore psycasts never check the designations. -->
+  <RV2WorldPsycasts_Settings_DesignationMode_Tip>控制吞噬灵能技能是否遵循小人身上的捕食者、致命猎物和体内吞噬猎物指定标记。其他 RimVore-2 能力检查与规则（年龄、容量、启用的路径和目标）仍然有效。\n\n始终遵循：所有施法者都遵循指定标记。\n敌人忽略：玩家施放的灵能技能遵循标记，敌方施法者不遵循。\n完全忽略：吞噬灵能技能从不检查指定标记。</RV2WorldPsycasts_Settings_DesignationMode_Tip>
+  <!-- EN: Always respect player designations -->
+  <RV2WorldPsycasts_Settings_Designation_RespectPlayerDesignations>始终遵循玩家指定标记</RV2WorldPsycasts_Settings_Designation_RespectPlayerDesignations>
+  <!-- EN: Enemies ignore player designations -->
+  <RV2WorldPsycasts_Settings_Designation_EnemiesIgnorePlayerDesignations>敌人忽略玩家指定标记</RV2WorldPsycasts_Settings_Designation_EnemiesIgnorePlayerDesignations>
+  <!-- EN: Ignore player designations altogether -->
+  <RV2WorldPsycasts_Settings_Designation_IgnorePlayerDesignations>完全忽略玩家指定标记</RV2WorldPsycasts_Settings_Designation_IgnorePlayerDesignations>
+
+  <!-- EN: Enemy vorecasters -->
+  <RV2WorldPsycasts_Settings_EnemiesHeader>敌方吞噬者灵能使</RV2WorldPsycasts_Settings_EnemiesHeader>
+  <!-- EN: Allow enemy vorecasters -->
+  <RV2WorldPsycasts_Settings_EnableVorecasterRaiders>允许敌方吞噬者灵能使</RV2WorldPsycasts_Settings_EnableVorecasterRaiders>
+  <!-- EN: Tribal and Empire raids may include a vorecaster. Vorecasters use teleport vore to fold colonists directly into their bodies. They cost three times as many raid points as the regular psycasters of their faction, so they only appear in large raids. -->
+  <RV2WorldPsycasts_Settings_EnableVorecasterRaiders_Tip>部落和帝国的袭击队可能会有吞噬者灵能使。吞噬者灵能使会使用传送吞噬，将殖民者直接折叠进自己的身体。他们消耗的袭击点数是同派系普通灵能使的三倍，因此只会出现在大型袭击中。</RV2WorldPsycasts_Settings_EnableVorecasterRaiders_Tip>
+</LanguageData>

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: offered devouring -->
+  <RV2World_MindVoreFeedFatal.label>主动献身</RV2World_MindVoreFeedFatal.label>
+  <!-- EN: Command the first target to approach the second target and be consumed. Select the prey first, then the predator. The caster is the feeder. The caster's preferred lethal vore goal is used. -->
+  <RV2World_MindVoreFeedFatal.description>命令第一个目标走向第二个目标并被吞噬。先选择猎物，再选择捕食者。施法者是喂食者，并使用施法者偏好的致命吞噬目标。</RV2World_MindVoreFeedFatal.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_MindVoreFeedFatal.jobReportString>正在使用能力：{0}</RV2World_MindVoreFeedFatal.jobReportString>
+  <!-- EN: offered devouring -->
+  <RV2World_MindVoreFeedFatal.verbProperties.label>主动献身</RV2World_MindVoreFeedFatal.verbProperties.label>
+  
+  <!-- EN: offered communion -->
+  <RV2World_MindVoreFeedNonFatal.label>主动献身（非致命）</RV2World_MindVoreFeedNonFatal.label>
+  <!-- EN: Compel the first target to approach the second target and be taken in. Select the prey first, then the predator. The caster is the feeder. The caster's preferred non-fatal vore goal is used. -->
+  <RV2World_MindVoreFeedNonFatal.description>迫使第一个目标走向第二个目标并被吞入。先选择猎物，再选择捕食者。施法者是喂食者，并使用施法者偏好的非致命吞噬目标。</RV2World_MindVoreFeedNonFatal.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_MindVoreFeedNonFatal.jobReportString>正在使用能力：{0}</RV2World_MindVoreFeedNonFatal.jobReportString>
+  <!-- EN: offered communion -->
+  <RV2World_MindVoreFeedNonFatal.verbProperties.label>主动献身（非致命）</RV2World_MindVoreFeedNonFatal.verbProperties.label>
+  
+  <!-- EN: offered shelter -->
+  <RV2World_MindVoreFeedStore.label>主动寻求庇护</RV2World_MindVoreFeedStore.label>
+  <!-- EN: Plant a command in the first target's mind, making them approach the second target and be taken in for safekeeping. Select the prey first, then the predator. The caster is the feeder. The vore goal is always Store. -->
+  <RV2World_MindVoreFeedStore.description>在第一个目标的脑中植入指令，使其走向第二个目标并被安全收容。先选择猎物，再选择捕食者。施法者是喂食者，吞噬目标始终为收容。</RV2World_MindVoreFeedStore.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_MindVoreFeedStore.jobReportString>正在使用能力：{0}</RV2World_MindVoreFeedStore.jobReportString>
+  <!-- EN: offered shelter -->
+  <RV2World_MindVoreFeedStore.verbProperties.label>主动寻求庇护</RV2World_MindVoreFeedStore.verbProperties.label>
+  
+  <!-- EN: release target -->
+  <RV2World_MindVoreReleaseTarget.label>释放目标</RV2World_MindVoreReleaseTarget.label>
+  <!-- EN: Force a nearby predator to release its prey. If the target itself is prey, release that pawn instead. The mindvore path requires the caster to be extremely close. -->
+  <RV2World_MindVoreReleaseTarget.description>迫使附近的捕食者释放猎物。如果目标本身是猎物，则释放该小人。心灵吞噬路径要求施法者靠得非常近。</RV2World_MindVoreReleaseTarget.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_MindVoreReleaseTarget.jobReportString>正在使用能力：{0}</RV2World_MindVoreReleaseTarget.jobReportString>
+  <!-- EN: release target -->
+  <RV2World_MindVoreReleaseTarget.verbProperties.label>释放目标</RV2World_MindVoreReleaseTarget.verbProperties.label>
+  
+  <!-- EN: commanded sacrifice -->
+  <RV2World_MindVoreSelfFatal.label>奉命献身</RV2World_MindVoreSelfFatal.label>
+  <!-- EN: Command the target to approach and consume the caster. The caster's preferred lethal vore goal is used. -->
+  <RV2World_MindVoreSelfFatal.description>命令目标靠近并吞噬施法者。使用施法者偏好的致命吞噬目标。</RV2World_MindVoreSelfFatal.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_MindVoreSelfFatal.jobReportString>正在使用能力：{0}</RV2World_MindVoreSelfFatal.jobReportString>
+  <!-- EN: commanded sacrifice -->
+  <RV2World_MindVoreSelfFatal.verbProperties.label>奉命献身</RV2World_MindVoreSelfFatal.verbProperties.label>
+  
+  <!-- EN: compelled offering -->
+  <RV2World_MindVoreSelfNonFatal.label>受迫献身</RV2World_MindVoreSelfNonFatal.label>
+  <!-- EN: Compel the target to approach and take the caster into their body. The caster's preferred non-fatal vore goal is used. -->
+  <RV2World_MindVoreSelfNonFatal.description>迫使目标靠近并将施法者收入体内。使用施法者偏好的非致命吞噬目标。</RV2World_MindVoreSelfNonFatal.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_MindVoreSelfNonFatal.jobReportString>正在使用能力：{0}</RV2World_MindVoreSelfNonFatal.jobReportString>
+  <!-- EN: compelled offering -->
+  <RV2World_MindVoreSelfNonFatal.verbProperties.label>受迫献身</RV2World_MindVoreSelfNonFatal.verbProperties.label>
+  
+  <!-- EN: suggested shelter -->
+  <RV2World_MindVoreSelfStore.label>受邀寻求庇护</RV2World_MindVoreSelfStore.label>
+  <!-- EN: Plant a gentle command in the target's mind, making them approach and take the caster into their body for safekeeping. The vore goal is always Store. -->
+  <RV2World_MindVoreSelfStore.description>在目标的脑中植入温和的指令，使其走近并将施法者安全收入体内。吞噬目标始终为收容。</RV2World_MindVoreSelfStore.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_MindVoreSelfStore.jobReportString>正在使用能力：{0}</RV2World_MindVoreSelfStore.jobReportString>
+  <!-- EN: suggested shelter -->
+  <RV2World_MindVoreSelfStore.verbProperties.label>受邀寻求庇护</RV2World_MindVoreSelfStore.verbProperties.label>
+  
+  <!-- EN: commanded devouring -->
+  <RV2World_MindVoreTargetFatal.label>奉命吞噬</RV2World_MindVoreTargetFatal.label>
+  <!-- EN: Command the target to approach the caster and be consumed. The caster's preferred lethal vore goal is used. -->
+  <RV2World_MindVoreTargetFatal.description>命令目标走向施法者并被吞噬。使用施法者偏好的致命吞噬目标。</RV2World_MindVoreTargetFatal.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_MindVoreTargetFatal.jobReportString>正在使用能力：{0}</RV2World_MindVoreTargetFatal.jobReportString>
+  <!-- EN: commanded devouring -->
+  <RV2World_MindVoreTargetFatal.verbProperties.label>奉命吞噬</RV2World_MindVoreTargetFatal.verbProperties.label>
+  
+  <!-- EN: compelled communion -->
+  <RV2World_MindVoreTargetNonFatal.label>受迫入体</RV2World_MindVoreTargetNonFatal.label>
+  <!-- EN: Compel the target to approach the caster and climb inside. The caster's preferred non-fatal vore goal is used. -->
+  <RV2World_MindVoreTargetNonFatal.description>迫使目标走近施法者并爬入其体内。使用施法者偏好的非致命吞噬目标。</RV2World_MindVoreTargetNonFatal.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_MindVoreTargetNonFatal.jobReportString>正在使用能力：{0}</RV2World_MindVoreTargetNonFatal.jobReportString>
+  <!-- EN: compelled communion -->
+  <RV2World_MindVoreTargetNonFatal.verbProperties.label>受迫入体</RV2World_MindVoreTargetNonFatal.verbProperties.label>
+  
+  <!-- EN: beckoned shelter -->
+  <RV2World_MindVoreTargetStore.label>受邀入体</RV2World_MindVoreTargetStore.label>
+  <!-- EN: Plant a gentle command in the target's mind, making them approach the caster and climb inside for safekeeping. The vore goal is always Store. -->
+  <RV2World_MindVoreTargetStore.description>在目标的脑中植入温和的指令，使其走向施法者并爬入体内寻求庇护。吞噬目标始终为收容。</RV2World_MindVoreTargetStore.description>
+  <!-- EN: Using ability: {0} -->
+  <RV2World_MindVoreTargetStore.jobReportString>正在使用能力：{0}</RV2World_MindVoreTargetStore.jobReportString>
+  <!-- EN: beckoned shelter -->
+  <RV2World_MindVoreTargetStore.verbProperties.label>受邀入体</RV2World_MindVoreTargetStore.verbProperties.label>
+  
+</LanguageData>

@@ -1,43 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <loadFolders>
-    <v1.3>
-        <li IfModActive="Nabber.RimVore2">Patches</li>
-        <li IfModActive="Nabber.RimVore2">rimvore2</li>
-        <li IfModActive="Nabber.RimVore2">rimvore2-~1.4</li>
-        <li IfModActive="Nabber.RimVore2">majormod</li>
-        <li IfModActive="MamaHorseteeth.RimVore2ExtraVores">overstuffed</li>
-        <li IfModActive="Rutrix.RimVore2Bulges">bulge</li>
-        <li IfModActive="MisTF.Piss">piss</li>
-        <li IfModActive="MisTF.Scat">scat</li>
-        <li IfModActive="Nabber.CarnivorousPlants">carniplants</li>
-        <li IfModActive="Whatif12.RV2Reformers">reformers</li>
-        <li IfModActive="Nabber.CumSlime">cumslimes</li>
-        <li IfModActive="Nabber.CumSlimesArePeopleToo">cumslimesC-pa</li>
-        <li IfModActive="Rutrix.RimVore2Interactions">interactions</li>
-        <li IfModActive="Rutrix.RutsRimVoreStuff">ruts</li>
-    </v1.3>
-    <v1.4>
-        <li IfModActive="Nabber.RimVore2">Patches</li>
-        <li IfModActive="Nabber.RimVore2">rimvore2</li>
-        <li IfModActive="Nabber.RimVore2">rimvore2-~1.4</li>
-        <li IfModActive="Nabber.RimVore2">majormod</li>
-        <li IfModActive="MamaHorseteeth.RimVore2ExtraVores">overstuffed</li>
-        <li IfModActive="Rutrix.RimVore2Bulges">bulge</li>
-        <li IfModActive="MisTF.Piss">piss</li>
-        <li IfModActive="MisTF.Scat">scat</li>
-        <li IfModActive="Nabber.CarnivorousPlants">carniplants</li>
-        <li IfModActive="Whatif12.RV2Reformers">reformers</li>
-        <li IfModActive="Nabber.CumSlime">cumslimes</li>
-        <li IfModActive="Nabber.CumSlimesArePeopleToo">cumslimesC-pa</li>
-        <li IfModActive="Rutrix.RimVore2Interactions">interactions</li>
-        <li IfModActive="Rutrix.RutsRimVoreStuff">ruts</li>
-        <li IfModActive="Esegn.RV2EADD">Esegn</li>
-    </v1.4>
+
     <v1.5>
         <li>OtherUse</li>
         <li IfModActive="Nabber.RimVore2">Patches</li>
         <li IfModActive="Nabber.RimVore2">rimvore2</li>
-        <li IfModActive="Nabber.RimVore2">rimvore2-1.5</li>
         <li IfModActive="Nabber.RimVore2">majormod</li>
         <li IfModActive="MamaHorseteeth.RimVore2ExtraVores">overstuffed</li>
         <li IfModActive="Rutrix.RimVore2Bulges">bulge</li>
@@ -51,12 +18,13 @@
         <li IfModActive="Rutrix.RutsRimVoreStuff">ruts</li>
         <li IfModActive="Whatif12.RV2Aspirations">aspiration</li>
         <li IfModActive="Esegn.RV2EADD">Esegn</li>
+        <li IfModActive="Esegn.taishi0.RimworldSampleMod">rimvore-world</li>
+        <li IfModActive="Esegn.taishi0.RV2WorldPsycasts">psycasts</li>
     </v1.5>
     <v1.6>
         <li>OtherUse</li>
         <li IfModActive="Nabber.RimVore2">Patches</li>
         <li IfModActive="Nabber.RimVore2">rimvore2</li>
-        <li IfModActive="Nabber.RimVore2">rimvore2-1.5</li>
         <li IfModActive="Nabber.RimVore2">majormod</li>
         <li IfModActive="MamaHorseteeth.RimVore2ExtraVores">overstuffed</li>
         <li IfModActive="Rutrix.RimVore2Bulges">bulge</li>
@@ -70,5 +38,27 @@
         <li IfModActive="Rutrix.RutsRimVoreStuff">ruts</li>
         <li IfModActive="Whatif12.RV2Aspirations">aspiration</li>
         <li IfModActive="Esegn.RV2EADD">Esegn</li>
+        <li IfModActive="Esegn.taishi0.RimworldSampleMod">rimvore-world</li>
+        <li IfModActive="Esegn.taishi0.RV2WorldPsycasts">psycasts</li>
     </v1.6>
+    <v1.7>
+        <li>OtherUse</li>
+        <li IfModActive="Nabber.RimVore2">Patches</li>
+        <li IfModActive="Nabber.RimVore2">rimvore2</li>
+        <li IfModActive="Nabber.RimVore2">majormod</li>
+        <li IfModActive="MamaHorseteeth.RimVore2ExtraVores">overstuffed</li>
+        <li IfModActive="Rutrix.RimVore2Bulges">bulge</li>
+        <li IfModActive="MisTF.Piss">piss</li>
+        <li IfModActive="MisTF.Scat">scat</li>
+        <li IfModActive="Nabber.CarnivorousPlants">carniplants</li>
+        <li IfModActive="Whatif12.RV2Reformers">reformers</li>
+        <li IfModActive="Nabber.CumSlime">cumslimes</li>
+        <li IfModActive="Nabber.CumSlimesArePeopleToo">cumslimesC-pa</li>
+        <li IfModActive="Rutrix.RimVore2Interactions">interactions</li>
+        <li IfModActive="Rutrix.RutsRimVoreStuff">ruts</li>
+        <li IfModActive="Whatif12.RV2Aspirations">aspiration</li>
+        <li IfModActive="Esegn.RV2EADD">Esegn</li>
+        <li IfModActive="Esegn.taishi0.RimworldSampleMod">rimvore-world</li>
+        <li IfModActive="Esegn.taishi0.RV2WorldPsycasts">psycasts</li>
+    </v1.7>
 </loadFolders>

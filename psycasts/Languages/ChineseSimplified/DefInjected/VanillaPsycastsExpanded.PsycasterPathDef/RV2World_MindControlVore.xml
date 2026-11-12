@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mindvore -->
+  <RV2World_MindControlVore.label>心灵吞噬</RV2World_MindControlVore.label>
+  <!-- EN: Mindvores reach into a pawn's psyche and make them seek out a chosen partner. The victim walks to the predator and willingly takes part in the vore. The caster's preference decides the goal. -->
+  <RV2World_MindControlVore.description>心灵吞噬者能够深入小人的精神，并让其主动寻找指定的对象。受术者会走向捕食者，自愿参与吞噬行为。最终目标由施法者的偏好决定。</RV2World_MindControlVore.description>
+  <!-- EN: Mindvore psycasts do not move the body directly. They plant a psychic command that makes the target approach the other pawn and initiate the vore on foot. -->
+  <RV2World_MindControlVore.tooltip>心灵吞噬灵能技能不会直接移动身体，而是在目标脑中植入心灵指令，使其走近另一名小人并主动发起吞噬。</RV2World_MindControlVore.tooltip>
+  
+</LanguageData>

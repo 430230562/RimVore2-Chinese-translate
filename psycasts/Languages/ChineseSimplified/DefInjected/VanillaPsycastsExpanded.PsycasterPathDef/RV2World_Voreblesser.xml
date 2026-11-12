@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: voreblesser -->
+  <RV2World_Voreblesser.label>吞噬赐福者</RV2World_Voreblesser.label>
+  <!-- EN: Voreblessers reshape a predator's body and instincts with psychic force. Their psycasts do not move prey so much as make the predator better at holding, swallowing, and digesting them. -->
+  <RV2World_Voreblesser.description>吞噬赐福者以灵能力量重塑捕食者的身体与本能。他们的灵能技能并非直接移动猎物，而是让捕食者更擅长容纳、吞咽和消化猎物。</RV2World_Voreblesser.description>
+  <!-- EN: Voreblesser psycasts are timed buffs that can be cast on the caster or another predator. They improve capacity, swallowing, digestion, encumbrance, proposal success, and the safety of prey held inside the buffed predator. -->
+  <RV2World_Voreblesser.tooltip>吞噬赐福灵能技能可对施法者或其他捕食者施放，并提供限时增益，提升吞噬容量、吞咽速度、消化速度、负重能力与提议成功率，同时保护被增益捕食者吞入体内的猎物。</RV2World_Voreblesser.tooltip>
+  
+</LanguageData>

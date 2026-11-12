@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: RV2 World -->
+  <RV2World_Settings_TabName>RV2 World</RV2World_Settings_TabName>
+  <!-- EN: Pawn generation -->
+  <RV2World_Settings_PawnGenTabName>小人生成</RV2World_Settings_PawnGenTabName>
+  <!-- EN: Behavior -->
+  <RV2World_Settings_BehaviorHeader>行为</RV2World_Settings_BehaviorHeader>
+  <!-- EN: Affects when predators decide to vore and how strongly ideology and quirks influence those decisions. -->
+  <RV2World_Settings_BehaviorNote>影响捕食者何时决定吞噬，以及意识形态和特性对这些决定的影响程度。</RV2World_Settings_BehaviorNote>
+  <!-- EN: Ideology weights -->
+  <RV2World_Settings_IdeologyHeader>意识形态权重</RV2World_Settings_IdeologyHeader>
+  <!-- EN: Affects predator hunt-vore decisions. These weights translate preyism, predation, and fatal vore precepts into a decision score. -->
+  <RV2World_Settings_IdeologyNote>影响捕食者的追猎吞噬决策。这些权重会将猎物主义、捕食行为和致命吞噬戒律转换为决策分数。</RV2World_Settings_IdeologyNote>
+  <!-- EN: Preference weights -->
+  <RV2World_Settings_PreferenceHeader>偏好权重</RV2World_Settings_PreferenceHeader>
+  <!-- EN: Affects predator hunt-vore decisions. These weights translate disposition quirks and fatal prey preferences into a decision score. -->
+  <RV2World_Settings_PreferenceNote>影响捕食者的追猎吞噬决策。这些权重会将性情特性和致命猎物偏好转换为决策分数。</RV2World_Settings_PreferenceNote>
+  <!-- EN: Decision tuning -->
+  <RV2World_Settings_DecisionHeader>决策调整</RV2World_Settings_DecisionHeader>
+  <!-- EN: Affects the final hunt-vore score. Use these to make ideology less important or to require a stronger combined score before a predator hunts. -->
+  <RV2World_Settings_DecisionNote>影响最终的追猎吞噬分数。可降低意识形态的重要性，或要求合计分数达到更高标准后捕食者才会发起追猎。</RV2World_Settings_DecisionNote>
+
+  <!-- EN: Predators hunt and vore downed enemies -->
+  <RV2World_Settings_EnablePredatorHuntVore>捕食者追猎并吞噬倒地的敌人</RV2World_Settings_EnablePredatorHuntVore>
+  <!-- EN: When enabled, hostile predators may break off to vore a downed enemy. When disabled, the hunt-vore job giver and its cooldown are inactive. -->
+  <RV2World_Settings_EnablePredatorHuntVore_Tip>启用后，敌对捕食者可能会中断当前行动，转而吞噬倒地的敌人。禁用后，追猎吞噬工作分配器及其冷却机制将停止运行。</RV2World_Settings_EnablePredatorHuntVore_Tip>
+  <!-- EN: Panic-fleeing pawns seek fatal vore -->
+  <RV2World_Settings_EnablePanicFleeVore>惊慌逃跑的小人寻求致命吞噬</RV2World_Settings_EnablePanicFleeVore>
+  <!-- EN: When enabled, a pawn fleeing in a panic may offer itself as fatal prey if its ideology or preferences support it. When disabled, this mod leaves the flee job alone; other vore systems are unaffected. -->
+  <RV2World_Settings_EnablePanicFleeVore_Tip>启用后，如果小人的意识形态或偏好支持致命吞噬，惊慌逃跑的小人可能会主动成为致命猎物。禁用后，此模组不会修改逃跑工作；其他吞噬系统不受影响。</RV2World_Settings_EnablePanicFleeVore_Tip>
+  <!-- EN: Ideology influences vore decisions -->
+  <RV2World_Settings_EnableIdeologyInfluence>意识形态影响吞噬决策</RV2World_Settings_EnableIdeologyInfluence>
+  <!-- EN: When enabled, preyism, predation, and fatal vore precepts are added to the predator and prey decision scores using the weights below. -->
+  <RV2World_Settings_EnableIdeologyInfluence_Tip>启用后，会根据下方权重，将猎物主义、捕食行为和致命吞噬戒律计入捕食者与猎物的决策分数。</RV2World_Settings_EnableIdeologyInfluence_Tip>
+  <!-- EN: Quirk preferences influence vore decisions -->
+  <RV2World_Settings_EnablePreferenceInfluence>特性偏好影响吞噬决策</RV2World_Settings_EnablePreferenceInfluence>
+  <!-- EN: When enabled, predator disposition quirks and fatal prey preferences are added to the predator and prey decision scores using the weights below. -->
+  <RV2World_Settings_EnablePreferenceInfluence_Tip>启用后，会根据下方权重，将捕食者性情特性和致命猎物偏好计入捕食者与猎物的决策分数。</RV2World_Settings_EnablePreferenceInfluence_Tip>
+
+  <!-- EN: Prey -->
+  <RV2World_Settings_PreyHeader>猎物</RV2World_Settings_PreyHeader>
+  <!-- EN: Affects pawns while they are held inside a predator. -->
+  <RV2World_Settings_PreyNote>影响被捕食者容纳在体内期间的小人。</RV2World_Settings_PreyNote>
+  <!-- EN: Age regression -->
+  <RV2World_Settings_AgeRegressionHeader>年龄回退</RV2World_Settings_AgeRegressionHeader>
+  <!-- EN: Affects non-lethal prey held in a womb stage. Regression runs every 250 ticks and keeps prey at or above the configured life stage. -->
+  <RV2World_Settings_AgeRegressionNote>影响处于子宫阶段的非致命猎物。每250刻进行一次年龄回退，并使猎物年龄不低于所设定的生命阶段。</RV2World_Settings_AgeRegressionNote>
+  <!-- EN: Prey age regression -->
+  <RV2World_Settings_EnableAgeRegression>猎物年龄回退</RV2World_Settings_EnableAgeRegression>
+  <!-- EN: When enabled, prey held in a womb stage slowly lose biological age. This does not affect lethal vore or other body parts. Reform vore is included because it resurrects the prey. -->
+  <RV2World_Settings_EnableAgeRegression_Tip>启用后，处于子宫阶段的猎物会逐渐降低生理年龄。此效果不影响致命吞噬或其他身体部位。重塑吞噬也包含在内，因为它会使猎物复活。</RV2World_Settings_EnableAgeRegression_Tip>
+  <!-- EN: Age regression strength -->
+  <RV2World_Settings_AgeRegressionStrength>年龄回退强度</RV2World_Settings_AgeRegressionStrength>
+  <!-- EN: Biological age removed per in-game day spent in a womb. Higher values regress faster. Natural aging still continues, so a low value may not be enough to reach the floor, especially for children and teenagers. Set to 0 to disable regression even when the feature toggle is on. -->
+  <RV2World_Settings_AgeRegressionStrength_Tip>每在子宫中度过一个游戏日所减少的生理年龄。数值越高，年龄回退越快。自然衰老仍会继续，因此较低的数值可能不足以达到年龄下限，儿童和青少年尤其如此。即使启用了该功能，将此值设为0也会停用年龄回退。</RV2World_Settings_AgeRegressionStrength_Tip>
+  <!-- EN: Regression floor (stages below adulthood) -->
+  <RV2World_Settings_AgeRegressionFloorStages>回退下限（低于成年阶段的阶段数）</RV2World_Settings_AgeRegressionFloorStages>
+  <!-- EN: How far below adulthood prey may regress. 0 stops at the race's developmental adulthood. RimWorld treats teenagers as adults, so for humans the floor starts at the teenager stage. 1 allows the life stage just below that, 2 one stage younger, and so on, clamped to the race's earliest life stage. Regressing below adulthood can re-trigger Biotech growth moments if the prey later ages back up. -->
+  <RV2World_Settings_AgeRegressionFloorStages_Tip>猎物最多可回退到低于成年的多少个阶段。0表示停留在该种族的发育成年阶段。RimWorld将青少年视为成年人，因此对人类而言，下限从青少年阶段开始。1表示可回退到下一个较低的生命阶段，2表示再低一个阶段，以此类推，但不会低于该种族最早的生命阶段。如果回退到成年阶段以下，猎物之后重新长大时可能会再次触发生物科技的成长时刻。</RV2World_Settings_AgeRegressionFloorStages_Tip>
+  <!-- EN: Chronic regression -->
+  <RV2World_Settings_AgeRegressionCureChronic>年龄回退可治愈慢性病</RV2World_Settings_AgeRegressionCureChronic>
+  <!-- EN: While regressing, chronic conditions can be cured or reduced. The effect rises as the prey gets younger. Only conditions marked chronic are affected, and asthma is ignored. -->
+  <RV2World_Settings_AgeRegressionCureChronic_Tip>回退年龄时，可以治愈或减轻慢性病。猎物越年轻，效果越强。只有标记为慢性的疾病会受影响，哮喘除外。</RV2World_Settings_AgeRegressionCureChronic_Tip>
+  <!-- EN: Predator -->
+  <RV2World_Settings_PredatorHeader>捕食者</RV2World_Settings_PredatorHeader>
+  <!-- EN: Affects pawns that fatally vore humanoids. -->
+  <RV2World_Settings_PredatorNote>影响致命吞噬人形生物的小人。</RV2World_Settings_PredatorNote>
+  <!-- EN: Prey regenerate psyfocus -->
+  <RV2World_Settings_EnablePreyPsyfocusRegen>猎物恢复灵能专注</RV2World_Settings_EnablePreyPsyfocusRegen>
+  <!-- EN: When enabled, pawns with a psylink slowly recover psyfocus while they are inside a predator. -->
+  <RV2World_Settings_EnablePreyPsyfocusRegen_Tip>启用后，拥有灵能链的小人被捕食者吞入体内时会缓慢恢复灵能专注。</RV2World_Settings_EnablePreyPsyfocusRegen_Tip>
+  <!-- EN: Psyfocus regen per hour -->
+  <RV2World_Settings_PreyPsyfocusRegenPerHour>每小时灵能专注恢复量</RV2World_Settings_PreyPsyfocusRegenPerHour>
+  <!-- EN: Psyfocus recovered per in-game hour by prey. The default 0.001 is 0.1% per hour. -->
+  <RV2World_Settings_PreyPsyfocusRegenPerHour_Tip>猎物每个游戏小时恢复的灵能专注。默认值0.001表示每小时恢复0.1%。</RV2World_Settings_PreyPsyfocusRegenPerHour_Tip>
+
+  <!-- EN: Fatal prey counter grants bonuses -->
+  <RV2World_Settings_EnableFatalPreyCounter>致命猎物计数器提供加成</RV2World_Settings_EnableFatalPreyCounter>
+  <!-- EN: When enabled, a permanent hediff tracks how many humanlike prey this pawn has fatally vored. Each counted prey grants a small bonus to Moving (+0.5% per prey, up to +10%), vore encumbrance resistance, and vore capacity, up to 20 prey. When disabled, no new prey are counted and all bonuses are inactive; an existing counter is kept. -->
+  <RV2World_Settings_EnableFatalPreyCounter_Tip>启用后，永久性健康状态会记录该小人致命吞噬的人形猎物数量。每名计入的猎物都会小幅提升移动能力（每名+0.5%，最高+10%）、吞噬负重抗性和吞噬容量，最多计入20名猎物。禁用后不再计入新的猎物，且所有加成失效；已有计数会保留。</RV2World_Settings_EnableFatalPreyCounter_Tip>
+  <!-- EN: Generated pawns -->
+  <RV2World_Settings_PawnGenRandomHeader>随机生成的小人</RV2World_Settings_PawnGenRandomHeader>
+  <!-- EN: Affects newly generated humanlike pawns that can act as predators. -->
+  <RV2World_Settings_PawnGenRandomNote>影响可作为捕食者的新生成类人生物小人。</RV2World_Settings_PawnGenRandomNote>
+  <!-- EN: Random pawns may have prior fatal prey -->
+  <RV2World_Settings_EnableFatalPreyCounterSpawn>随机小人可能已有致命吞噬经历</RV2World_Settings_EnableFatalPreyCounterSpawn>
+  <!-- EN: When enabled, newly generated humanlike pawns that can fatally vore may start with a configured number of counted humanoid fatal vores. Pawns whose RimVore backstory grants a lethal goal enabler always start with the configured backstory range. The normal counter bonuses apply when the fatal prey counter is enabled in the Predator section. -->
+  <RV2World_Settings_EnableFatalPreyCounterSpawn_Tip>启用后，可致命吞噬的新生成类人生物小人可能会从一开始就拥有一定数量的已计数人形猎物。拥有可启用致命吞噬目标的 RimVore 背景故事的小人，始终会按背景故事区间获得初始数量。仅当“捕食者”部分启用了致命猎物计数器时，才会获得常规计数器加成。</RV2World_Settings_EnableFatalPreyCounterSpawn_Tip>
+  <!-- EN: Base chance for prior fatal prey -->
+  <RV2World_Settings_FatalPreySpawnChance>已有致命猎物的基础概率</RV2World_Settings_FatalPreySpawnChance>
+  <!-- EN: Neutral chance for an eligible generated pawn to start with prior fatal humanoid vores. Default 0.05 means 5%. Ideology precepts and quirks scale this chance up or down. -->
+  <RV2World_Settings_FatalPreySpawnChance_Tip>符合条件的新生成小人拥有既往致命吞噬人形生物经历的基础概率。默认值0.05表示5%。意识形态戒律和特性会提高或降低此概率。</RV2World_Settings_FatalPreySpawnChance_Tip>
+  <!-- EN: Ideology/quirk spawn impact -->
+  <RV2World_Settings_FatalPreySpawnDispositionImpact>意识形态/特性对生成概率的影响</RV2World_Settings_FatalPreySpawnDispositionImpact>
+  <!-- EN: How strongly ideology and quirks modify the base spawn chance. Default 4 means a strongly positive combined disposition can multiply the chance by up to 8, while a strongly negative one can multiply it by as little as 0.125. Ideology and quirks combine, with the total capped. -->
+  <RV2World_Settings_FatalPreySpawnDispositionImpact_Tip>意识形态和特性对基础生成概率的影响强度。默认值4表示，非常积极的综合性情最多可将概率乘以8，而非常消极的综合性情可将其最低乘以0.125。意识形态和特性效果会合并计算，但总影响有上限。</RV2World_Settings_FatalPreySpawnDispositionImpact_Tip>
+  <!-- EN: Minimum prior fatal prey -->
+  <RV2World_Settings_FatalPreySpawnMin>既往致命猎物的最少数量</RV2World_Settings_FatalPreySpawnMin>
+  <!-- EN: Minimum number of prior fatal humanoid vores for a randomly selected generated pawn. Default 1. -->
+  <RV2World_Settings_FatalPreySpawnMin_Tip>随机选中的新生成小人既往致命吞噬的人形生物数量下限。默认值为1。</RV2World_Settings_FatalPreySpawnMin_Tip>
+  <!-- EN: Maximum prior fatal prey -->
+  <RV2World_Settings_FatalPreySpawnMax>既往致命猎物的最多数量</RV2World_Settings_FatalPreySpawnMax>
+  <!-- EN: Maximum number of prior fatal humanoid vores for a randomly selected generated pawn. Default 10. The fatal prey counter caps bonuses at 20. -->
+  <RV2World_Settings_FatalPreySpawnMax_Tip>随机选中的新生成小人既往致命吞噬的人形生物数量上限。默认值为10。致命猎物计数器的加成上限为20名猎物。</RV2World_Settings_FatalPreySpawnMax_Tip>
+  <!-- EN: Fatal-predator backstories -->
+  <RV2World_Settings_PawnGenBackstoryHeader>致命捕食者背景故事</RV2World_Settings_PawnGenBackstoryHeader>
+  <!-- EN: Affects pawns whose RimVore backstory grants a lethal goal enabler. -->
+  <RV2World_Settings_PawnGenBackstoryNote>影响拥有可启用致命吞噬目标的 RimVore 背景故事的小人。</RV2World_Settings_PawnGenBackstoryNote>
+  <!-- EN: Minimum for fatal-predator backstories -->
+  <RV2World_Settings_FatalPreyBackstoryMin>致命捕食者背景故事的最少数量</RV2World_Settings_FatalPreyBackstoryMin>
+  <!-- EN: Minimum number of prior fatal humanoid vores for a pawn whose RimVore backstory grants a lethal goal enabler. Default 1. -->
+  <RV2World_Settings_FatalPreyBackstoryMin_Tip>拥有可启用致命吞噬目标的 RimVore 背景故事的小人，其既往致命吞噬人形生物数量下限。默认值为1。</RV2World_Settings_FatalPreyBackstoryMin_Tip>
+  <!-- EN: Maximum for fatal-predator backstories -->
+  <RV2World_Settings_FatalPreyBackstoryMax>致命捕食者背景故事的最多数量</RV2World_Settings_FatalPreyBackstoryMax>
+  <!-- EN: Maximum number of prior fatal humanoid vores for a pawn whose RimVore backstory grants a lethal goal enabler. Default 20. The fatal prey counter caps bonuses at 20. -->
+  <RV2World_Settings_FatalPreyBackstoryMax_Tip>拥有可启用致命吞噬目标的 RimVore 背景故事的小人，其既往致命吞噬人形生物数量上限。默认值为20。致命猎物计数器的加成上限为20名猎物。</RV2World_Settings_FatalPreyBackstoryMax_Tip>
+
+  <!-- EN: Desperate prey event -->
+  <RV2World_Settings_DesperatePreyHeader>绝望猎物事件</RV2World_Settings_DesperatePreyHeader>
+  <!-- EN: Affects the neutral event pawn who wants to be eaten. Disabling the event prevents new events and stops active event pawns as soon as they are not inside a predator. -->
+  <RV2World_Settings_DesperatePreyNote>影响渴望被吃掉的中立事件小人。禁用此事件会阻止新事件发生，并在活跃事件小人不再处于捕食者体内时令其停止事件行为。</RV2World_Settings_DesperatePreyNote>
+  <!-- EN: Enable the desperate prey event -->
+  <RV2World_Settings_EnableDesperatePreyEvent>启用绝望猎物事件</RV2World_Settings_EnableDesperatePreyEvent>
+  <!-- EN: When enabled, a neutral pawn who desperately wants to be eaten may arrive and ask for help. If nobody eats them within the patience period, they will try to force themselves into a sleeping or unconscious colonist, and eventually knock a colonist down to do so. -->
+  <RV2World_Settings_EnableDesperatePreyEvent_Tip>启用后，极度渴望被吃掉的中立小人可能会来到殖民地请求帮助。如果耐心期限内无人吞噬他们，他们会试图强行钻入睡着或昏迷的殖民者体内，最终甚至会击倒殖民者后强行钻入。</RV2World_Settings_EnableDesperatePreyEvent_Tip>
+  <!-- EN: Chance the pawn is male -->
+  <RV2World_Settings_DesperatePreyMaleRatio>小人为男性的概率</RV2World_Settings_DesperatePreyMaleRatio>
+  <!-- EN: 0 means the event pawn is always female, 1 means always male, and 0.5 is an even split. -->
+  <RV2World_Settings_DesperatePreyMaleRatio_Tip>0表示事件小人必定为女性，1表示必定为男性，0.5表示男女概率相等。</RV2World_Settings_DesperatePreyMaleRatio_Tip>
+  <!-- EN: Days before the pawn takes matters into their own hands -->
+  <RV2World_Settings_DesperatePreyPatienceDays>小人自行采取行动前的天数</RV2World_Settings_DesperatePreyPatienceDays>
+  <!-- EN: How long the event pawn waits for someone to eat them before they start looking for a sleeping or unconscious colonist. Default 3 days. -->
+  <RV2World_Settings_DesperatePreyPatienceDays_Tip>事件小人等待被吃掉、之后开始寻找睡着或昏迷殖民者的时长。默认值为3天。</RV2World_Settings_DesperatePreyPatienceDays_Tip>
+  <!-- EN: Hours spent searching before forcing a vore -->
+  <RV2World_Settings_DesperatePreyForceSearchHours>强行吞噬前的搜寻时长</RV2World_Settings_DesperatePreyForceSearchHours>
+  <!-- EN: If no sleeping or unconscious colonist is found within this many hours, the event pawn will try to knock down a nearby colonist and force vore on them. Default 4 hours. -->
+  <RV2World_Settings_DesperatePreyForceSearchHours_Tip>如果在这段时间内找不到睡着或昏迷的殖民者，事件小人会尝试击倒附近的殖民者并强行吞噬。默认值为4小时。</RV2World_Settings_DesperatePreyForceSearchHours_Tip>
+
+  <!-- EN: Witness reactions -->
+  <RV2World_Settings_WitnessHeader>目击者反应</RV2World_Settings_WitnessHeader>
+  <!-- EN: Affects nearby pawns who see a vore involving a colony pawn. -->
+  <RV2World_Settings_WitnessNote>影响附近目击涉及殖民者的吞噬行为的小人。</RV2World_Settings_WitnessNote>
+  <!-- EN: Bystanders react to vore -->
+  <RV2World_Settings_EnableWitnessReactions>旁观者会对吞噬作出反应</RV2World_Settings_EnableWitnessReactions>
+  <!-- EN: When enabled, nearby pawns who are not already covered by RimVore-2 ideology precepts or close-relation fatal-vore reactions gain a small mood memory and an opinion of the predator after witnessing a vore. Only pawns with line of sight inside the radius react, and only when a colony pawn is involved. -->
+  <RV2World_Settings_EnableWitnessReactions_Tip>启用后，目击吞噬行为的附近小人若尚未受到 RimVore-2 意识形态戒律或近亲致命吞噬反应的影响，会获得轻微的心情记忆，并改变对捕食者的看法。只有处于视野范围内且在指定半径内的小人会作出反应，并且必须有殖民者参与此次吞噬。</RV2World_Settings_EnableWitnessReactions_Tip>
+  <!-- EN: Witness radius -->
+  <RV2World_Settings_WitnessRadius>目击半径</RV2World_Settings_WitnessRadius>
+  <!-- EN: Maximum distance in cells at which a pawn can witness a vore. Line of sight is still required. Default 12. -->
+  <RV2World_Settings_WitnessRadius_Tip>小人可以目击吞噬行为的最大格数距离。仍需满足视线条件。默认值为12。</RV2World_Settings_WitnessRadius_Tip>
+
+  <!-- EN: Required precept weight -->
+  <RV2World_Settings_IdeoRequiredWeight>必需戒律权重</RV2World_Settings_IdeoRequiredWeight>
+  <!-- EN: Score added for each required preyism, predation, or fatal vore precept. -->
+  <RV2World_Settings_IdeoRequiredWeight_Tip>每项必需的猎物主义、捕食行为或致命吞噬戒律所增加的分数。</RV2World_Settings_IdeoRequiredWeight_Tip>
+  <!-- EN: Liked precept weight -->
+  <RV2World_Settings_IdeoLikedWeight>喜爱戒律权重</RV2World_Settings_IdeoLikedWeight>
+  <!-- EN: Score added for each liked preyism, predation, or fatal vore precept. -->
+  <RV2World_Settings_IdeoLikedWeight_Tip>每项受喜爱的猎物主义、捕食行为或致命吞噬戒律所增加的分数。</RV2World_Settings_IdeoLikedWeight_Tip>
+  <!-- EN: Disliked precept weight -->
+  <RV2World_Settings_IdeoDislikedWeight>厌恶戒律权重</RV2World_Settings_IdeoDislikedWeight>
+  <!-- EN: Score added for each disliked preyism, predation, or fatal vore precept. This should normally be negative. -->
+  <RV2World_Settings_IdeoDislikedWeight_Tip>每项不受喜爱的猎物主义、捕食行为或致命吞噬戒律所增加的分数。通常应设为负数。</RV2World_Settings_IdeoDislikedWeight_Tip>
+  <!-- EN: Abhorrent precept weight -->
+  <RV2World_Settings_IdeoAbhorrentWeight>憎恶戒律权重</RV2World_Settings_IdeoAbhorrentWeight>
+  <!-- EN: Score added for each abhorrent preyism, predation, or fatal vore precept. This should normally be negative. -->
+  <RV2World_Settings_IdeoAbhorrentWeight_Tip>每项遭到憎恶的猎物主义、捕食行为或致命吞噬戒律所增加的分数。通常应设为负数。</RV2World_Settings_IdeoAbhorrentWeight_Tip>
+
+  <!-- EN: Obsessed predator weight -->
+  <RV2World_Settings_PredatorObsessedWeight>痴迷捕食者权重</RV2World_Settings_PredatorObsessedWeight>
+  <!-- EN: Score added when a pawn has the obsessed predator disposition quirk. -->
+  <RV2World_Settings_PredatorObsessedWeight_Tip>小人拥有“痴迷捕食者”性情特性时增加的分数。</RV2World_Settings_PredatorObsessedWeight_Tip>
+  <!-- EN: Likes predator weight -->
+  <RV2World_Settings_PredatorLikesWeight>喜欢捕食者权重</RV2World_Settings_PredatorLikesWeight>
+  <!-- EN: Score added when a pawn has the likes predator disposition quirk. -->
+  <RV2World_Settings_PredatorLikesWeight_Tip>小人拥有“喜欢捕食者”性情特性时增加的分数。</RV2World_Settings_PredatorLikesWeight_Tip>
+  <!-- EN: Dislikes predator weight -->
+  <RV2World_Settings_PredatorDislikesWeight>讨厌捕食者权重</RV2World_Settings_PredatorDislikesWeight>
+  <!-- EN: Score added when a pawn has the dislikes predator disposition quirk. This should normally be negative. -->
+  <RV2World_Settings_PredatorDislikesWeight_Tip>小人拥有“讨厌捕食者”性情特性时增加的分数。通常应为负数。</RV2World_Settings_PredatorDislikesWeight_Tip>
+  <!-- EN: Refuses predator weight -->
+  <RV2World_Settings_PredatorRefusesWeight>拒绝捕食者权重</RV2World_Settings_PredatorRefusesWeight>
+  <!-- EN: Score added when a pawn has the refuses predator disposition quirk. This should normally be very negative. -->
+  <RV2World_Settings_PredatorRefusesWeight_Tip>小人拥有“拒绝捕食者”性情特性时增加的分数。通常应为很大的负数。</RV2World_Settings_PredatorRefusesWeight_Tip>
+  <!-- EN: Animal predator weight -->
+  <RV2World_Settings_AnimalPredatorWeight>动物捕食者权重</RV2World_Settings_AnimalPredatorWeight>
+  <!-- EN: Predator decision score used for animals, which do not have quirks or ideology. -->
+  <RV2World_Settings_AnimalPredatorWeight_Tip>用于动物的捕食者决策分数，因为动物没有特性或意识形态。</RV2World_Settings_AnimalPredatorWeight_Tip>
+  <!-- EN: Fatal prey preference threshold -->
+  <RV2World_Settings_FatalPreyPreferenceThreshold>致命猎物偏好阈值</RV2World_Settings_FatalPreyPreferenceThreshold>
+  <!-- EN: A pawn only seeks out fatal vore as prey when its prey preference for a lethal goal is above this value. -->
+  <RV2World_Settings_FatalPreyPreferenceThreshold_Tip>只有当小人对致命目标的猎物偏好高于此值时，才会主动寻求致命吞噬。</RV2World_Settings_FatalPreyPreferenceThreshold_Tip>
+  <!-- EN: Ideology influence divisor -->
+  <RV2World_Settings_IdeologyDecisionDivisor>意识形态影响除数</RV2World_Settings_IdeologyDecisionDivisor>
+  <!-- EN: The ideology score is divided by this value before it is added to the predator decision score. Higher values make ideology less important. -->
+  <RV2World_Settings_IdeologyDecisionDivisor_Tip>意识形态分数会先除以此值，再加到捕食者决策分数中。数值越高，意识形态影响越小。</RV2World_Settings_IdeologyDecisionDivisor_Tip>
+  <!-- EN: Hunt decision threshold -->
+  <RV2World_Settings_EatEnemyDecisionThreshold>追猎决策阈值</RV2World_Settings_EatEnemyDecisionThreshold>
+  <!-- EN: A predator only starts a hunt-vore when its combined ideology and preference score is above this value. -->
+  <RV2World_Settings_EatEnemyDecisionThreshold_Tip>只有当意识形态与偏好的综合分数高于此值时，捕食者才会开始追猎并吞噬。</RV2World_Settings_EatEnemyDecisionThreshold_Tip>
+</LanguageData>

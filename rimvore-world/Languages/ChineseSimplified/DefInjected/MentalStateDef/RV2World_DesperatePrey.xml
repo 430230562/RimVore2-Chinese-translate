@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Desperate Prey -->
+  <RV2World_DesperatePreySeeker.label>绝望猎物</RV2World_DesperatePreySeeker.label>
+  <!-- EN: Mental state: Desperate prey -->
+  <RV2World_DesperatePreySeeker.baseInspectLine>精神状态：绝望猎物</RV2World_DesperatePreySeeker.baseInspectLine>
+  <!-- EN: {0} is desperately looking for a predator to be eaten by. -->
+  <RV2World_DesperatePreySeeker.beginLetter>{0}正绝望地寻找愿意吃掉自己的捕食者。</RV2World_DesperatePreySeeker.beginLetter>
+  <!-- EN: Desperate prey -->
+  <RV2World_DesperatePreySeeker.beginLetterLabel>绝望猎物</RV2World_DesperatePreySeeker.beginLetterLabel>
+  <!-- EN: {0} has stopped desperately seeking a predator. -->
+  <RV2World_DesperatePreySeeker.recoveryMessage>{0}不再绝望地寻找捕食者了。</RV2World_DesperatePreySeeker.recoveryMessage>
+  
+</LanguageData>

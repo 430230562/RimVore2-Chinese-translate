@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Desperate prey: [PAWN_nameDef] -->
+  <RV2World_DesperatePrey_LetterLabel>绝望猎物：[PAWN_nameDef]</RV2World_DesperatePrey_LetterLabel>
+  <!-- EN: [PAWN_nameDef] seeks to be eaten—and, optionally, digested—by any suitable predator, by ANY means. Help [PAWN_objective] with it, or [PAWN_pronoun] will try to force [PAWN_possessive] way into one of your colonists. -->
+  <RV2World_DesperatePrey_LetterText>[PAWN_nameDef]渴望被任何合适的捕食者吃掉——也可以被消化——不惜一切手段。请帮[PAWN_objective]实现愿望，否则[PAWN_pronoun]会试图强行钻进你的一名殖民者体内。</RV2World_DesperatePrey_LetterText>
+  <!-- EN: [PAWN_nameDef] has stopped waiting and is looking for a sleeping or unconscious colonist to slip into. -->
+  <RV2World_DesperatePrey_Phase2>[PAWN_nameDef]不再等待，开始寻找睡着或昏迷的殖民者，好钻进其体内。</RV2World_DesperatePrey_Phase2>
+  <!-- EN: [PAWN_nameDef] is desperate enough to knock a colonist down and force [PAWN_possessive] way in. -->
+  <RV2World_DesperatePrey_Phase3>[PAWN_nameDef]已经绝望到要击倒一名殖民者，再强行钻进[PAWN_possessive]体内。</RV2World_DesperatePrey_Phase3>
+</LanguageData>

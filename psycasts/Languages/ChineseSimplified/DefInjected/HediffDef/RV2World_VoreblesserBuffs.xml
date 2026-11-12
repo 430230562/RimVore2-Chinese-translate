@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bottomless cache -->
+  <RV2World_Buff_BottomlessCache.label>无底空间</RV2World_Buff_BottomlessCache.label>
+  <!-- EN: The predator's internal space folds outward, increasing total vore capacity by 50%. -->
+  <RV2World_Buff_BottomlessCache.description>捕食者的内部空间向外折叠，使吞噬容量提高50%。</RV2World_Buff_BottomlessCache.description>
+  
+  <!-- EN: furnace gut -->
+  <RV2World_Buff_FurnaceGut.label>熔炉胃囊</RV2World_Buff_FurnaceGut.label>
+  <!-- EN: Psychic heat accelerates digestion to three times its normal speed. -->
+  <RV2World_Buff_FurnaceGut.description>灵能热量使消化速度提高至平时的三倍。</RV2World_Buff_FurnaceGut.description>
+  
+  <!-- EN: safe passage -->
+  <RV2World_Buff_SafePassage.label>安全通行</RV2World_Buff_SafePassage.label>
+  <!-- EN: Prey held by the buffed predator receive protection from harm while the aura lasts. -->
+  <RV2World_Buff_SafePassage.description>在光环持续期间，被施加增益的捕食者体内的猎物不会受到伤害。</RV2World_Buff_SafePassage.description>
+  
+  <!-- EN: silver tongue -->
+  <RV2World_Buff_SilverTongue.label>巧舌如簧</RV2World_Buff_SilverTongue.label>
+  <!-- EN: The caster's words carry psychic certainty, improving vore proposal acceptance. -->
+  <RV2World_Buff_SilverTongue.description>施法者的话语带有令人信服的灵能，提升吞噬提议的接受率。</RV2World_Buff_SilverTongue.description>
+  
+  <!-- EN: stomach of holding -->
+  <RV2World_Buff_StomachOfHolding.label>次元胃囊</RV2World_Buff_StomachOfHolding.label>
+  <!-- EN: The predator's body becomes a patient, efficient vessel: more capacity and less hunger while it lasts. -->
+  <RV2World_Buff_StomachOfHolding.description>捕食者的身体变成了耐心而高效的容器：增益持续期间，容量增加且饥饿速度降低。</RV2World_Buff_StomachOfHolding.description>
+  
+  <!-- EN: super-rapid digestion -->
+  <RV2World_Buff_SuperRapidDigestion.label>超速消化</RV2World_Buff_SuperRapidDigestion.label>
+  <!-- EN: Digestion is pushed to a near-instantaneous psychic boil for 1 hour. -->
+  <RV2World_Buff_SuperRapidDigestion.description>灵能沸腾般地推动消化，使其近乎瞬间完成，持续1小时。</RV2World_Buff_SuperRapidDigestion.description>
+  
+  <!-- EN: sweeping mouth -->
+  <RV2World_Buff_SweepingMouth.label>吞咽如风</RV2World_Buff_SweepingMouth.label>
+  <!-- EN: The predator's throat opens with unnatural ease, dramatically shortening swallow time. -->
+  <RV2World_Buff_SweepingMouth.description>捕食者的喉咙异常顺畅地张开，大幅缩短吞咽时间。</RV2World_Buff_SweepingMouth.description>
+  
+  <!-- EN: perfect prison cell -->
+  <RV2World_Buff_UltimatePrisonCell.label>完美囚笼</RV2World_Buff_UltimatePrisonCell.label>
+  <!-- EN: A permanent psychic holding space. Vore capacity becomes effectively unlimited, vore encumbrance is practically ignored, non-lethal prey feed from the void instead of draining the predator's food, digestion is halved, and prey cannot be ejected or transferred during sex. The psycast that applies it can be used again on the same pawn to dismiss it. -->
+  <RV2World_Buff_UltimatePrisonCell.description>永久存在的灵能收容空间。吞噬容量近乎无限，吞噬负重几乎不再造成影响；非致命猎物从虚空获取食物，不会消耗捕食者的食物；消化时间减半；且无法在性交期间排出或转移猎物。再次对同一名小人施放此灵能技能即可解除效果。</RV2World_Buff_UltimatePrisonCell.description>
+  
+  <!-- EN: unburdened -->
+  <RV2World_Buff_Unburdened.label>身轻如燕</RV2World_Buff_Unburdened.label>
+  <!-- EN: Psychic reinforcement eases the weight of prey, offsetting movement penalties from vore encumbrance. -->
+  <RV2World_Buff_Unburdened.description>灵能强化减轻了猎物的重量，抵消吞噬负重造成的移动速度惩罚。</RV2World_Buff_Unburdened.description>
+  
+  <!-- EN: safe passage -->
+  <RV2World_SafePassagePrey.label>安全通行</RV2World_SafePassagePrey.label>
+  <!-- EN: Protected by a predator's safe passage aura. Immunity and healing are accelerated. -->
+  <RV2World_SafePassagePrey.description>受到捕食者的安全通行光环保护。免疫力提升，伤势恢复加快。</RV2World_SafePassagePrey.description>
+  
+  <!-- EN: perfect prison coma -->
+  <RV2WorldPsycasts_PerfectPrisonComa.label>完美囚笼昏迷</RV2WorldPsycasts_PerfectPrisonComa.label>
+  <!-- EN: A psychic backlash from anchoring a perfect prison cell. The pawn is unconscious for one day. -->
+  <RV2WorldPsycasts_PerfectPrisonComa.description>锚定完美囚笼时引发的灵能反噬。小人将昏迷一天。</RV2WorldPsycasts_PerfectPrisonComa.description>
+  
+</LanguageData>

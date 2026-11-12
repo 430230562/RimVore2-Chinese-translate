@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: human prey devoured -->
+  <RV2World_FatalHumanPreyCounter.label>吞噬的人类猎物</RV2World_FatalHumanPreyCounter.label>
+  <!-- EN: A permanent tally of humanlike prey this pawn has fatally vored. Each counted prey grants a small permanent bonus to Moving, resistance to vore encumbrance, and vore capacity. The counter keeps growing, but the bonuses stop after 20 prey. -->
+  <RV2World_FatalHumanPreyCounter.description>永久记录该小人致命吞噬的人形猎物数量。每名计入的猎物都会永久小幅提升移动能力、吞噬负重抗性和吞噬容量。计数会继续增加，但猎物达到20名后不再获得额外加成。</RV2World_FatalHumanPreyCounter.description>
+  
+</LanguageData>

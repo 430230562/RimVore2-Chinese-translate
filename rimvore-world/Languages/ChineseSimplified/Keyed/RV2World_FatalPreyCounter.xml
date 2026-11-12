@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: vore capacity: +{0} -->
+  <RV2World_FatalPreyCounter_CapacityBonus>吞噬容量：+{0}</RV2World_FatalPreyCounter_CapacityBonus>
+  <!-- EN: vore encumbrance resistance: +{0} -->
+  <RV2World_FatalPreyCounter_MovingBonus>吞噬负重抗性：+{0}</RV2World_FatalPreyCounter_MovingBonus>
+  <!-- EN: Fatal human prey devoured: +{0} -->
+  <RV2World_FatalPreyCounter_CapacityStatPart>已致命吞噬的人类猎物：+{0}</RV2World_FatalPreyCounter_CapacityStatPart>
+  <!-- EN: Fatal prey counter bonuses are disabled in the RV2 World settings. -->
+  <RV2World_FatalPreyCounter_Disabled>RV2 World 设置中已禁用致命猎物计数器加成。</RV2World_FatalPreyCounter_Disabled>
+  <!-- EN: Capacity factor: ×{0} -->
+  <RV2World_StatPart_CapacityFactor>容量系数：×{0}</RV2World_StatPart_CapacityFactor>
+  <!-- EN: Capacity bonus: +{0} body sizes -->
+  <RV2World_StatPart_CapacityBonus>容量加成：+{0}体型单位</RV2World_StatPart_CapacityBonus>
+</LanguageData>

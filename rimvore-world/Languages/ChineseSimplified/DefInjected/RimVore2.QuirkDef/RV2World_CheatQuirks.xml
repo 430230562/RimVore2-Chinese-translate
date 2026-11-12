@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Void feeder -->
+  <RV2World_Cheat_FeedFromVoid.label>虚空供食者</RV2World_Cheat_FeedFromVoid.label>
+  <!-- EN: [PAWN_label] can feed non-lethal prey from the void: the prey still gains food, but [PAWN_possessive] own food need is not drained. This is a cheat quirk. -->
+  <RV2World_Cheat_FeedFromVoid.description>[PAWN_label]可以从虚空中为非致命猎物提供食物：猎物仍会获得食物，但不会消耗[PAWN_possessive]自身的食物需求。这是一种作弊特性。</RV2World_Cheat_FeedFromVoid.description>
+  
+</LanguageData>

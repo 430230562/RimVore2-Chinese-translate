@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Eat enemy cooldown -->
+  <Hediff_EatEnemyCD.label>吞噬敌人冷却中</Hediff_EatEnemyCD.label>
+  <!-- EN: "Who's next?" -->
+  <Hediff_EatEnemyCD.description>“下一个是谁？”</Hediff_EatEnemyCD.description>
+  
+</LanguageData>
